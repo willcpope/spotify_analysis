@@ -1,0 +1,338 @@
+,album,track_number,id,name,uri,duration_ms,key,mode,time_signature,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,Ghosts V: Together,1,3i7wFFCv5uIXq8la0jvjNi,Letting Go While Holding On,spotify:track:3i7wFFCv5uIXq8la0jvjNi,578943,4,1,4,0.979,0.116,0.13,0.974,0.11,-20.029,0.037,79.852,0.0386,48
+1,Ghosts V: Together,2,7iiu6ce9zGfbvs0yBvsZeT,Together,spotify:track:7iiu6ce9zGfbvs0yBvsZeT,603649,0,0,4,0.928,0.174,0.165,0.931,0.0944,-20.291,0.044,119.986,0.0399,48
+2,Ghosts V: Together,3,12c5EH0LBo7IM9PlsL305E,Out In The Open,spotify:track:12c5EH0LBo7IM9PlsL305E,315053,9,1,4,0.944,0.127,0.408,0.901,0.0898,-13.423,0.0404,60.076,0.0349,45
+3,Ghosts V: Together,4,308QTKAITroZ0BCrd6vT2v,With Faith,spotify:track:308QTKAITroZ0BCrd6vT2v,580363,8,1,4,0.971,0.473,0.277,0.957,0.117,-17.038,0.034,119.985,0.04,44
+4,Ghosts V: Together,5,1ynahsJeZyOXsXv8ndSHbL,Apart,spotify:track:1ynahsJeZyOXsXv8ndSHbL,815434,10,1,4,0.877,0.117,0.228,0.912,0.0859,-18.281,0.0379,90.977,0.0291,43
+5,Ghosts V: Together,6,7n0ZW3l9uDUdUKvnQPsyVV,Your Touch,spotify:track:7n0ZW3l9uDUdUKvnQPsyVV,267372,0,0,3,0.937,0.314,0.378,0.847,0.108,-15.595,0.0331,125.978,0.0907,44
+6,Ghosts V: Together,7,4qobOJfBSSVkUGM2pAJBiX,Hope We Can Again,spotify:track:4qobOJfBSSVkUGM2pAJBiX,446669,10,1,4,0.486,0.149,0.308,0.894,0.083,-16.043,0.0385,137.836,0.0577,42
+7,Ghosts V: Together,8,3klPNiQxeAqUZrCSQ7uvfS,Still Right Here,spotify:track:3klPNiQxeAqUZrCSQ7uvfS,610974,2,0,4,0.899,0.181,0.255,0.945,0.0949,-15.598,0.0458,123.976,0.0364,41
+8,Ghosts VI: Locusts,1,6itJixbsjJKjA6kLQCEp9t,The Cursed Clock,spotify:track:6itJixbsjJKjA6kLQCEp9t,420797,7,1,4,0.947,0.395,0.157,0.961,0.166,-16.565,0.0389,64.996,0.0334,41
+9,Ghosts VI: Locusts,2,6ps4n8Yjza25RbVL2c56CK,Around Every Corner,spotify:track:6ps4n8Yjza25RbVL2c56CK,652650,2,1,3,0.932,0.346,0.415,0.899,0.088,-11.9,0.0292,77.639,0.0595,39
+10,Ghosts VI: Locusts,3,4jWDSwY7ksdUH1yznjQw89,The Worriment Waltz,spotify:track:4jWDSwY7ksdUH1yznjQw89,565679,0,0,3,0.974,0.11,0.219,0.902,0.129,-21.715,0.038,59.445,0.0365,38
+11,Ghosts VI: Locusts,4,2B44wnYqA2kS240njbc5Wb,Run Like Hell,spotify:track:2B44wnYqA2kS240njbc5Wb,337678,9,1,4,0.891,0.559,0.57,0.899,0.28,-11.501,0.031,146.02,0.0826,41
+12,Ghosts VI: Locusts,5,3h6Aq83xPv9mPPYi6Q31d0,When It Happens (Don't Mind Me),spotify:track:3h6Aq83xPv9mPPYi6Q31d0,175729,3,1,4,0.0979,0.434,0.759,0.000227,0.145,-6.879,0.0305,140.02,0.0375,38
+13,Ghosts VI: Locusts,6,53asXyK9epDCiB1nShivTt,Another Crashed Car,spotify:track:53asXyK9epDCiB1nShivTt,143510,2,1,3,0.822,0.524,0.208,0.326,0.114,-26.22,0.118,137.537,0.121,39
+14,Ghosts VI: Locusts,7,0utwFXyhU59unWIRnZZiwZ,Temp Fix,spotify:track:0utwFXyhU59unWIRnZZiwZ,106935,6,1,4,0.903,0.524,0.292,0.951,0.113,-16.523,0.0314,136.098,0.157,39
+15,Ghosts VI: Locusts,8,2v70eVes333Y7ABEKRGbU0,Trust Fades,spotify:track:2v70eVes333Y7ABEKRGbU0,192779,0,1,4,0.972,0.478,0.133,0.897,0.109,-22.249,0.0351,127.972,0.186,38
+16,Ghosts VI: Locusts,9,3Z3mLHAZQwWZEg2pfYB6DN,A Really Bad Night,spotify:track:3Z3mLHAZQwWZEg2pfYB6DN,293100,2,0,4,0.96,0.115,0.135,0.917,0.183,-21.338,0.0391,80.735,0.0388,38
+17,Ghosts VI: Locusts,10,0OKqTXZbiF6bprdxpUqATB,Your New Normal,spotify:track:0OKqTXZbiF6bprdxpUqATB,225034,11,0,4,0.624,0.698,0.259,0.941,0.141,-15.863,0.0443,129.982,0.332,37
+18,Ghosts VI: Locusts,11,4hqP2wxdZYvrC8md1tVq9d,Just Breathe,spotify:track:4hqP2wxdZYvrC8md1tVq9d,420448,5,0,3,0.777,0.168,0.427,0.883,0.259,-15.712,0.0623,88.906,0.0886,38
+19,Ghosts VI: Locusts,12,3CUTdyN1Xvlq1LXakSjJzg,Right Behind You,spotify:track:3CUTdyN1Xvlq1LXakSjJzg,102716,9,0,5,0.878,0.245,0.00564,0.779,0.101,-29.713,0.0368,136.726,0.0372,36
+20,Ghosts VI: Locusts,13,5Q5tiOfNfQipmj24rDgXHL,Turn This Off Please,spotify:track:5Q5tiOfNfQipmj24rDgXHL,788454,9,1,4,0.763,0.376,0.541,0.95,0.112,-15.298,0.0711,146.036,0.0721,35
+21,Ghosts VI: Locusts,14,3iDNGp4NpmZ21VIZMauOqR,So Tired,spotify:track:3iDNGp4NpmZ21VIZMauOqR,224569,6,1,3,0.866,0.235,0.0366,0.823,0.112,-26.729,0.0367,67.813,0.0373,34
+22,Ghosts VI: Locusts,15,1ccQ4PPN2AKYT8ExXY4GVv,Almost Dawn,spotify:track:1ccQ4PPN2AKYT8ExXY4GVv,334172,2,0,4,0.899,0.342,0.382,0.951,0.0921,-18.732,0.0425,89.875,0.0922,34
+23,Bad Witch,1,79uO9bKIBzjD1lasokGlnA,Shit Mirror,spotify:track:79uO9bKIBzjD1lasokGlnA,186072,2,0,4,0.00273,0.297,0.943,0.888,0.278,-5.207,0.214,79.96,0.142,45
+24,Bad Witch,2,1xq7A4x22Vc1vO7wXvW6H3,Ahead of Ourselves,spotify:track:1xq7A4x22Vc1vO7wXvW6H3,210562,7,1,4,0.119,0.598,0.986,0.724,0.11,-6.766,0.097,162.036,0.445,36
+25,Bad Witch,3,5wt1PmsOAfMohbdSyBdhMV,Play the Goddamned Part,spotify:track:5wt1PmsOAfMohbdSyBdhMV,291387,2,1,4,0.154,0.59,0.722,0.812,0.0832,-8.003,0.0383,152.086,0.392,34
+26,Bad Witch,4,2X1s0WGkHmRLUzKmebGelG,God Break Down the Door,spotify:track:2X1s0WGkHmRLUzKmebGelG,254958,0,1,3,0.269,0.33,0.971,0.945,0.155,-4.543,0.139,113.931,0.153,35
+27,Bad Witch,5,02Idl8q2bZhZEXqsWXXoG9,I'm Not from This World,spotify:track:02Idl8q2bZhZEXqsWXXoG9,401854,2,0,4,0.777,0.273,0.477,0.886,0.108,-14.56,0.0973,192.029,0.191,33
+28,Bad Witch,6,1J8CqSsS6ErrveimQyCvZa,Over and Out,spotify:track:1J8CqSsS6ErrveimQyCvZa,469898,2,0,3,0.416,0.374,0.575,0.818,0.0671,-10.251,0.0497,140.116,0.0387,35
+29,Recoiled,1,2uibtoCm0gT65lfzmdr7M6,Gave Up - Open My Eyes,spotify:track:2uibtoCm0gT65lfzmdr7M6,360907,10,0,4,8.6e-05,0.551,0.934,0.136,0.208,-7.956,0.0883,134.103,0.393,30
+30,Recoiled,2,5CiT7nicnIVZjVZXanmab7,Closer - Unrecalled,spotify:track:5CiT7nicnIVZjVZXanmab7,464831,3,0,4,0.346,0.424,0.577,0.00758,0.107,-10.858,0.123,180.175,0.368,28
+31,Recoiled,3,4KEnW5DzwIcRLExU4FZCqz,The Downward Spiral - A Gilded Sickness,spotify:track:4KEnW5DzwIcRLExU4FZCqz,481028,2,1,4,0.186,0.308,0.754,0.758,0.354,-9.741,0.233,100.286,0.244,25
+32,Recoiled,4,3OgdTqkseAiIkMUxj43CWI,Eraser - Reduction,spotify:track:3OgdTqkseAiIkMUxj43CWI,529554,1,0,5,0.928,0.16,0.654,0.394,0.472,-10.733,0.0627,110.142,0.0395,23
+33,Recoiled,5,7CqbsfykB0lA1D7lFoRzWl,Eraser - Baby Alarm Remix,spotify:track:7CqbsfykB0lA1D7lFoRzWl,532710,3,0,4,0.0315,0.548,0.834,0.718,0.264,-9.566,0.0665,130.091,0.149,22
+34,Hesitation Marks (Deluxe Version),1,7Lfh4aHCDfksrnDfgSTZ6U,The Eater of Dreams,spotify:track:7Lfh4aHCDfksrnDfgSTZ6U,52453,1,1,4,0.104,0.552,0.0201,0.503,0.255,-23.908,0.0508,167.732,0.0419,27
+35,Hesitation Marks (Deluxe Version),2,5ECySGXI4N8MCv6jf7HU9n,Copy of a,spotify:track:5ECySGXI4N8MCv6jf7HU9n,322613,8,1,5,0.0238,0.635,0.832,0.384,0.223,-6.151,0.039,137.979,0.681,41
+36,Hesitation Marks (Deluxe Version),3,0jem8KSDqhiOoIWIqrJZbI,Came Back Haunted,spotify:track:0jem8KSDqhiOoIWIqrJZbI,317267,9,0,4,0.00283,0.681,0.745,0.0148,0.113,-4.331,0.0771,130.025,0.566,36
+37,Hesitation Marks (Deluxe Version),4,1mbd1JnkpVc1RaZH6rRPqE,Find My Way,spotify:track:1mbd1JnkpVc1RaZH6rRPqE,315680,1,1,4,0.209,0.619,0.446,0.745,0.106,-8.687,0.037,149.988,0.427,31
+38,Hesitation Marks (Deluxe Version),5,6PLLzSQEx444MY7Gp53PSa,All Time Low,spotify:track:6PLLzSQEx444MY7Gp53PSa,377800,2,1,4,0.0161,0.549,0.858,0.0225,0.123,-5.279,0.0424,86.009,0.39,33
+39,Hesitation Marks (Deluxe Version),6,7Gq7q0gXSMet89GPstlh5N,Disappointed,spotify:track:7Gq7q0gXSMet89GPstlh5N,344120,2,1,4,0.0187,0.743,0.477,0.853,0.106,-8.483,0.0386,137.037,0.234,29
+40,Hesitation Marks (Deluxe Version),7,3EnXOFhkcaUl6THFnyFMi7,Everything,spotify:track:3EnXOFhkcaUl6THFnyFMi7,199560,1,1,4,1.85e-05,0.511,0.913,0.543,0.129,-3.511,0.0596,155.034,0.898,28
+41,Hesitation Marks (Deluxe Version),8,0P8yfWvDPk3sqfod1kySRu,Satellite,spotify:track:0P8yfWvDPk3sqfod1kySRu,302733,1,1,4,0.00019,0.753,0.618,0.842,0.0884,-6.0,0.0903,113.41,0.462,30
+42,Hesitation Marks (Deluxe Version),9,4Cp6Mq59YlBMp2M2ZK5gIB,Various Methods of Escape,spotify:track:4Cp6Mq59YlBMp2M2ZK5gIB,301413,5,0,4,0.0041,0.385,0.556,0.674,0.116,-7.423,0.0527,168.998,0.455,31
+43,Hesitation Marks (Deluxe Version),10,4KXA1dUIl7ghdYzOSny6Qo,Running,spotify:track:4KXA1dUIl7ghdYzOSny6Qo,247600,11,0,4,0.136,0.779,0.822,0.847,0.128,-7.361,0.0544,132.996,0.625,27
+44,Hesitation Marks (Deluxe Version),11,2uLO0A8hcEBVK3XcXJZaa1,I Would For You,spotify:track:2uLO0A8hcEBVK3XcXJZaa1,272693,3,1,4,0.014,0.547,0.837,0.263,0.113,-6.306,0.0522,146.001,0.417,30
+45,Hesitation Marks (Deluxe Version),12,3vr8V1JkwLR3XQYaaPzSmK,In Two,spotify:track:3vr8V1JkwLR3XQYaaPzSmK,331533,1,1,4,0.0102,0.482,0.848,0.319,0.233,-6.985,0.0427,182.021,0.189,28
+46,Hesitation Marks (Deluxe Version),13,4PhvviJTEZ1Py8dr1tmYJ1,While I'm Still Here,spotify:track:4PhvviJTEZ1Py8dr1tmYJ1,242747,1,1,4,0.0991,0.713,0.366,0.857,0.091,-16.011,0.0856,173.998,0.464,29
+47,Hesitation Marks (Deluxe Version),14,0sXE2Hw2slSjZiGiHtFIF1,Black Noise,spotify:track:0sXE2Hw2slSjZiGiHtFIF1,89013,1,1,4,0.57,0.497,0.626,0.929,0.142,-9.322,0.0816,173.966,0.279,26
+48,Hesitation Marks (Deluxe Version),1,21ODbmDlGqET6E3NLqcQdx,Find My Way - Oneohtrix Point Never Remix,spotify:track:21ODbmDlGqET6E3NLqcQdx,287760,10,1,4,0.623,0.208,0.248,0.412,0.111,-12.177,0.0333,149.41,0.0366,24
+49,Hesitation Marks (Deluxe Version),2,3QqJ5hCgv9EBICTOnXhWia,All Time Low - Todd Rundgren Remix,spotify:track:3QqJ5hCgv9EBICTOnXhWia,349560,2,1,4,0.128,0.43,0.798,0.000863,0.297,-6.039,0.0779,86.689,0.414,23
+50,Hesitation Marks (Deluxe Version),3,5i7YsI966pLfDR3OE0B0oe,While I'm Still Here - Breyer P-Orridge 'Howler' Remix,spotify:track:5i7YsI966pLfDR3OE0B0oe,423013,1,1,4,0.49,0.616,0.531,0.816,0.112,-10.24,0.0642,86.841,0.473,23
+51,Hesitation Marks,1,51YS7stUvXonWD3SibG1Zn,The Eater Of Dreams,spotify:track:51YS7stUvXonWD3SibG1Zn,52432,1,1,4,0.0834,0.555,0.0237,0.296,0.28,-26.377,0.049,167.739,0.045,25
+52,Hesitation Marks,2,6xlsMxBuulXsX0hY37iE70,Copy Of A,spotify:track:6xlsMxBuulXsX0hY37iE70,322623,8,1,5,0.022,0.634,0.828,0.422,0.216,-6.161,0.0391,137.974,0.694,42
+53,Hesitation Marks,3,1rW2R3fwUuyDhaF4Cg3S4C,Came Back Haunted,spotify:track:1rW2R3fwUuyDhaF4Cg3S4C,317269,9,0,4,0.00342,0.687,0.747,0.0194,0.117,-4.324,0.0797,130.025,0.579,34
+54,Hesitation Marks,4,1YKCpxc73TFhElkJEMej4b,Find My Way,spotify:track:1YKCpxc73TFhElkJEMej4b,315668,1,1,4,0.202,0.624,0.448,0.759,0.106,-8.686,0.0357,150.008,0.408,30
+55,Hesitation Marks,5,4FhOjGTVa4oAi4UMCZ9dPc,All Time Low,spotify:track:4FhOjGTVa4oAi4UMCZ9dPc,377810,2,1,4,0.0163,0.545,0.857,0.0195,0.121,-5.262,0.0414,86.033,0.377,31
+56,Hesitation Marks,6,4dacTG0CgGaqi8gzRdv2Pe,Disappointed,spotify:track:4dacTG0CgGaqi8gzRdv2Pe,344116,2,1,4,0.0201,0.74,0.472,0.847,0.104,-8.495,0.0386,137.032,0.234,28
+57,Hesitation Marks,7,1pK48aPFvfveHf8Ozl9Rms,Everything,spotify:track:1pK48aPFvfveHf8Ozl9Rms,199559,1,1,4,1.87e-05,0.515,0.911,0.646,0.131,-3.502,0.059,155.028,0.912,27
+58,Hesitation Marks,8,4C5OYFFU5yGFu26kMKN73U,Satellite,spotify:track:4C5OYFFU5yGFu26kMKN73U,302736,1,1,4,0.000166,0.75,0.613,0.81,0.0888,-6.013,0.0988,113.409,0.441,28
+59,Hesitation Marks,9,4xZOdYH5IpcUFPrQe1lttg,Various Methods Of Escape,spotify:track:4xZOdYH5IpcUFPrQe1lttg,301406,5,0,4,0.00519,0.526,0.555,0.713,0.124,-7.441,0.0504,84.013,0.459,29
+60,Hesitation Marks,10,6StfMAtprVXd0DMZMIfnSe,Running,spotify:track:6StfMAtprVXd0DMZMIfnSe,247601,11,0,4,0.132,0.78,0.824,0.839,0.121,-7.365,0.0543,133.003,0.625,25
+61,Hesitation Marks,11,0LCtasZEFweOQyxxfSB9gU,I Would For You,spotify:track:0LCtasZEFweOQyxxfSB9gU,272691,3,1,4,0.0144,0.548,0.839,0.174,0.112,-6.34,0.0527,145.988,0.402,28
+62,Hesitation Marks,12,2YGldylcliKY1qyhXLRI0I,In Two,spotify:track:2YGldylcliKY1qyhXLRI0I,331537,1,1,4,0.00924,0.475,0.852,0.35,0.243,-6.964,0.0416,181.979,0.187,26
+63,Hesitation Marks,13,5PFEnGvW083DE1JxQA4NpF,While I'm Still Here,spotify:track:5PFEnGvW083DE1JxQA4NpF,242744,1,1,4,0.0942,0.701,0.363,0.843,0.0917,-16.037,0.0857,173.99,0.478,27
+64,Hesitation Marks,14,6cP8Cqqa4wVcVH8Q0pJkWD,Black Noise,spotify:track:6cP8Cqqa4wVcVH8Q0pJkWD,89025,1,1,4,0.51,0.489,0.631,0.952,0.149,-9.274,0.0827,174.036,0.32,24
+65,Hesitation Marks (Deluxe Edition),1,0EoOXmPSxzInDzepQvdXUe,The Eater Of Dreams,spotify:track:0EoOXmPSxzInDzepQvdXUe,52432,1,1,4,0.0834,0.555,0.0237,0.296,0.28,-26.377,0.049,167.739,0.045,21
+66,Hesitation Marks (Deluxe Edition),2,5dBmjEUtCufTk9IU0E6HAI,Copy Of A,spotify:track:5dBmjEUtCufTk9IU0E6HAI,322623,8,1,5,0.022,0.634,0.828,0.422,0.216,-6.161,0.0391,137.974,0.694,30
+67,Hesitation Marks (Deluxe Edition),3,1huBguFxUQSvAnZyDAdQUw,Came Back Haunted,spotify:track:1huBguFxUQSvAnZyDAdQUw,317269,9,0,4,0.00342,0.687,0.747,0.0194,0.117,-4.324,0.0797,130.025,0.579,26
+68,Hesitation Marks (Deluxe Edition),4,0mf3sKZYffIRJaKxepJzd4,Find My Way,spotify:track:0mf3sKZYffIRJaKxepJzd4,315668,1,1,4,0.202,0.624,0.448,0.759,0.106,-8.686,0.0357,150.008,0.408,24
+69,Hesitation Marks (Deluxe Edition),5,5FJRzOYHVTOL42WsDkdcKc,All Time Low,spotify:track:5FJRzOYHVTOL42WsDkdcKc,377810,2,1,4,0.0163,0.545,0.857,0.0195,0.121,-5.262,0.0414,86.033,0.377,24
+70,Hesitation Marks (Deluxe Edition),6,1PPg3POmFheCNwjRF8gkWV,Disappointed,spotify:track:1PPg3POmFheCNwjRF8gkWV,344116,2,1,4,0.0201,0.74,0.472,0.847,0.104,-8.495,0.0386,137.032,0.234,22
+71,Hesitation Marks (Deluxe Edition),7,7EQyQsCjqMtLCEGQTsmT53,Everything,spotify:track:7EQyQsCjqMtLCEGQTsmT53,199559,1,1,4,1.87e-05,0.515,0.911,0.646,0.131,-3.502,0.059,155.028,0.912,21
+72,Hesitation Marks (Deluxe Edition),8,4x9tgKi3P5MuShHeI26n0m,Satellite,spotify:track:4x9tgKi3P5MuShHeI26n0m,302736,1,1,4,0.000166,0.75,0.613,0.81,0.0888,-6.013,0.0988,113.409,0.441,23
+73,Hesitation Marks (Deluxe Edition),9,2ctVhaE2tns3BU0xP1yOye,Various Methods Of Escape,spotify:track:2ctVhaE2tns3BU0xP1yOye,301406,5,0,4,0.00519,0.526,0.555,0.713,0.124,-7.441,0.0504,84.013,0.459,23
+74,Hesitation Marks (Deluxe Edition),10,6WApT6t8wvyBYlIip0ke9r,Running,spotify:track:6WApT6t8wvyBYlIip0ke9r,247601,11,0,4,0.132,0.78,0.824,0.839,0.121,-7.365,0.0543,133.003,0.625,21
+75,Hesitation Marks (Deluxe Edition),11,2yNqzyre4FDIriuxj01UGi,I Would For You,spotify:track:2yNqzyre4FDIriuxj01UGi,272691,3,1,4,0.0144,0.548,0.839,0.174,0.112,-6.34,0.0527,145.988,0.402,22
+76,Hesitation Marks (Deluxe Edition),12,5qODqHMMYQLLdSGXQbeRSq,In Two,spotify:track:5qODqHMMYQLLdSGXQbeRSq,331537,1,1,4,0.00924,0.475,0.852,0.35,0.243,-6.964,0.0416,181.979,0.187,21
+77,Hesitation Marks (Deluxe Edition),13,0OcnyOjzoLPg3HZ4BMGHXA,While I'm Still Here,spotify:track:0OcnyOjzoLPg3HZ4BMGHXA,242744,1,1,4,0.0942,0.701,0.363,0.843,0.0917,-16.037,0.0857,173.99,0.478,21
+78,Hesitation Marks (Deluxe Edition),14,4dpd5WasbioR0Tzq4QtpV0,Black Noise,spotify:track:4dpd5WasbioR0Tzq4QtpV0,89025,1,1,4,0.51,0.489,0.631,0.952,0.149,-9.274,0.0827,174.036,0.32,19
+79,Hesitation Marks (Deluxe Edition),15,5c9wOrT4KAbHPBaYx3mxBt,Find My Way - Oneohtrix Point Never Remix,spotify:track:5c9wOrT4KAbHPBaYx3mxBt,290160,5,1,4,0.662,0.218,0.248,0.538,0.112,-12.302,0.035,149.866,0.0375,20
+80,Hesitation Marks (Deluxe Edition),16,2Zadxs0Tqnj3i7Vm3SQ77S,All Time Low - Todd Rundgren Remix,spotify:track:2Zadxs0Tqnj3i7Vm3SQ77S,351560,2,1,4,0.119,0.426,0.809,0.000862,0.0792,-6.06,0.0932,86.795,0.417,19
+81,Hesitation Marks (Deluxe Edition),17,33y9r2SeNq9PpgTwRGfjBt,While I'm Still Here - Breyer P-Orridge 'Howler' Remix,spotify:track:33y9r2SeNq9PpgTwRGfjBt,423720,1,1,4,0.463,0.623,0.539,0.793,0.111,-10.261,0.0602,86.975,0.455,21
+82,Pretty Hate Machine (Remastered),1,6j0Q06QmlWdd8xlS8NrOhl,Head Like A Hole,spotify:track:6j0Q06QmlWdd8xlS8NrOhl,300160,9,1,4,0.00348,0.649,0.912,0.000343,0.495,-4.012,0.0618,115.408,0.402,46
+83,Pretty Hate Machine (Remastered),2,55BRo8RYC2Kge75UXI1oYe,Terrible Lie,spotify:track:55BRo8RYC2Kge75UXI1oYe,278720,6,1,4,0.00357,0.612,0.814,0.00254,0.165,-4.455,0.0353,87.965,0.518,37
+84,Pretty Hate Machine (Remastered),3,3wLyeM7EVwyWNVuLnSDjeJ,Down In It,spotify:track:3wLyeM7EVwyWNVuLnSDjeJ,226467,4,0,4,0.000338,0.645,0.891,0.5,0.105,-4.95,0.156,104.011,0.486,36
+85,Pretty Hate Machine (Remastered),4,7tl6M2QWHUsJtEXGQ9poUJ,Sanctified,spotify:track:7tl6M2QWHUsJtEXGQ9poUJ,347773,9,1,4,0.0976,0.706,0.773,0.0343,0.274,-5.32,0.0315,107.031,0.934,34
+86,Pretty Hate Machine (Remastered),5,2jSlyYZOxCmdL8KeXnJyqH,Something I Can Never Have,spotify:track:2jSlyYZOxCmdL8KeXnJyqH,355467,5,1,4,0.762,0.5,0.26,0.000191,0.111,-9.722,0.0286,108.002,0.0397,35
+87,Pretty Hate Machine (Remastered),6,0LEs2eQLPXOEVi8sblfu4Y,Kinda I Want To,spotify:track:0LEs2eQLPXOEVi8sblfu4Y,273133,6,0,4,0.0125,0.592,0.987,0.804,0.936,-4.433,0.133,104.054,0.591,32
+88,Pretty Hate Machine (Remastered),7,2gNZCN86bRDGskyz7Eo2n0,Sin,spotify:track:2gNZCN86bRDGskyz7Eo2n0,246360,11,1,4,0.000744,0.634,0.949,0.711,0.843,-5.477,0.0535,128.422,0.662,35
+89,Pretty Hate Machine (Remastered),8,5ffX305s8ZvkafnBdSJLCn,That’s What I Get,spotify:track:5ffX305s8ZvkafnBdSJLCn,270653,0,1,4,0.0128,0.664,0.839,0.0767,0.384,-4.914,0.0378,112.04,0.314,32
+90,Pretty Hate Machine (Remastered),9,4jfEWB5Rb7Cy1xN9v14Mxv,The Only Time,spotify:track:4jfEWB5Rb7Cy1xN9v14Mxv,287853,11,0,4,0.00238,0.536,0.876,0.0281,0.0629,-4.177,0.0991,188.613,0.664,32
+91,Pretty Hate Machine (Remastered),10,3Au8B4hO8P9NGHUW7ile5X,Ringfinger,spotify:track:3Au8B4hO8P9NGHUW7ile5X,345427,10,0,4,0.00423,0.744,0.937,0.207,0.552,-6.161,0.072,113.067,0.608,32
+92,Pretty Hate Machine (Remastered),11,6eco0716lo6FVLTKWi0d3r,"Get Down, Make Love",spotify:track:6eco0716lo6FVLTKWi0d3r,258773,6,0,4,2.87e-05,0.544,0.863,0.00511,0.0823,-5.672,0.078,90.911,0.223,34
+93,Pretty Hate Machine: 2010 Remaster (International Version),1,4PbkRUGorFTYXry9FSsV4b,Head Like A Hole - Remastered,spotify:track:4PbkRUGorFTYXry9FSsV4b,300160,9,1,4,0.00355,0.662,0.914,0.000135,0.53,-3.957,0.0662,115.408,0.382,18
+94,Pretty Hate Machine: 2010 Remaster (International Version),2,1yIzGyH3rD1iAUmLrHC4SO,Terrible Lie - Remastered,spotify:track:1yIzGyH3rD1iAUmLrHC4SO,278720,6,1,4,0.00347,0.601,0.82,0.00286,0.165,-4.456,0.0367,87.933,0.502,13
+95,Pretty Hate Machine: 2010 Remaster (International Version),3,32mdiSfhPfsfGemKAk19ZO,Down In It - Remastered,spotify:track:32mdiSfhPfsfGemKAk19ZO,226467,4,0,4,0.000276,0.653,0.881,0.598,0.144,-4.943,0.127,104.052,0.457,11
+96,Pretty Hate Machine: 2010 Remaster (International Version),4,0w4gwRqYpX0UQDJkbXmjuo,Sanctified - Remastered,spotify:track:0w4gwRqYpX0UQDJkbXmjuo,347760,9,1,4,0.105,0.703,0.765,0.0317,0.274,-5.315,0.0314,107.035,0.931,9
+97,Pretty Hate Machine: 2010 Remaster (International Version),5,6ItI2nSFRUpMhaj7Z4lIND,Something I Can Never Have - Remastered,spotify:track:6ItI2nSFRUpMhaj7Z4lIND,355480,5,1,4,0.764,0.511,0.264,0.000145,0.111,-9.689,0.0287,108.064,0.0392,12
+98,Pretty Hate Machine: 2010 Remaster (International Version),6,1KiYYzl2kgZXY7abW6HU62,Kinda I Want To - Remastered,spotify:track:1KiYYzl2kgZXY7abW6HU62,273133,6,0,4,0.0139,0.602,0.985,0.72,0.942,-4.466,0.125,104.07,0.571,8
+99,Pretty Hate Machine: 2010 Remaster (International Version),7,1F9OrtGNQidtQpkWJWrki5,Sin - Remastered,spotify:track:1F9OrtGNQidtQpkWJWrki5,246360,11,1,4,0.000706,0.624,0.95,0.739,0.81,-5.479,0.0534,128.436,0.653,10
+100,Pretty Hate Machine: 2010 Remaster (International Version),8,7nplJJ8r1snRHWhz7f4TGC,That’s What I Get - Remastered,spotify:track:7nplJJ8r1snRHWhz7f4TGC,270640,0,1,4,0.0155,0.674,0.84,0.103,0.374,-4.949,0.0377,112.041,0.323,9
+101,Pretty Hate Machine: 2010 Remaster (International Version),9,4agB3keJA18TYhs5LmJJlT,The Only Time - Remastered,spotify:track:4agB3keJA18TYhs5LmJJlT,287867,9,1,4,0.00234,0.673,0.867,0.0154,0.0556,-4.212,0.0436,94.288,0.659,8
+102,Pretty Hate Machine: 2010 Remaster (International Version),10,10UE65VkBA5lZnq9SenIPb,Ringfinger - Remastered,spotify:track:10UE65VkBA5lZnq9SenIPb,345427,10,0,4,0.0049,0.748,0.944,0.22,0.548,-6.144,0.0695,113.057,0.59,9
+103,Pretty Hate Machine: 2010 Remaster (International Version),11,6j6eFz7hIGPmRIKNftjkva,"Get Down, Make Love - Remastered",spotify:track:6j6eFz7hIGPmRIKNftjkva,258773,1,0,4,2.47e-05,0.55,0.857,0.00851,0.0949,-5.643,0.0792,90.928,0.218,8
+104,The Slip,1,6DtJ0Ha9UWEfEMbuRVZWfb,"999,999",spotify:track:6DtJ0Ha9UWEfEMbuRVZWfb,85159,8,1,5,0.857,0.194,0.132,0.827,0.195,-30.122,0.0565,127.896,0.0504,29
+105,The Slip,2,7wWa2By6UumtuTAv1RAVfF,"1,000,000",spotify:track:7wWa2By6UumtuTAv1RAVfF,236197,7,1,4,0.0696,0.545,0.961,0.00392,0.432,-4.163,0.0892,135.941,0.35,40
+106,The Slip,3,7BMXjMBut8STY681WZqiuh,Letting You,spotify:track:7BMXjMBut8STY681WZqiuh,229510,10,0,5,0.00794,0.314,0.978,0.492,0.403,-4.028,0.0906,113.907,0.0456,31
+107,The Slip,4,0Z4pLlygCvkTHmeQtYAbNH,Discipline,spotify:track:0Z4pLlygCvkTHmeQtYAbNH,259183,6,1,4,0.00122,0.611,0.793,0.285,0.251,-6.646,0.0275,122.01,0.824,49
+108,The Slip,5,7EFBGCEsHR1MzZZMayDtXS,Echoplex,spotify:track:7EFBGCEsHR1MzZZMayDtXS,285239,10,0,4,0.0138,0.769,0.411,0.708,0.099,-8.228,0.0498,123.996,0.565,41
+109,The Slip,6,5ohqEYnO5rARJJLKTqagrv,Head Down,spotify:track:5ohqEYnO5rARJJLKTqagrv,295460,10,0,4,0.0946,0.63,0.885,0.497,0.14,-7.947,0.0457,121.998,0.785,38
+110,The Slip,7,0O44lAoHhGnFvr3vAvUZ4x,Lights in the Sky,spotify:track:0O44lAoHhGnFvr3vAvUZ4x,209638,0,0,4,0.971,0.469,0.018,0.932,0.11,-24.246,0.0404,109.828,0.0419,33
+111,The Slip,8,2orRv3uoKgjfjWAa62ckaN,Corona Radiata,spotify:track:2orRv3uoKgjfjWAa62ckaN,453698,5,1,5,0.953,0.0833,0.0673,0.901,0.113,-26.559,0.0392,67.282,0.0404,32
+112,The Slip,9,0iWgd4W1Jn7Fq9cmjzpmkW,The Four of Us Are Dying,spotify:track:0iWgd4W1Jn7Fq9cmjzpmkW,277628,10,0,4,0.519,0.546,0.601,0.873,0.211,-11.712,0.0506,83.01,0.246,36
+113,The Slip,10,5z6ZmlPFpruzVT2QJ0mzxY,Demon Seed,spotify:track:5z6ZmlPFpruzVT2QJ0mzxY,299408,9,1,3,0.102,0.591,0.844,0.574,0.116,-8.148,0.0417,132.004,0.787,36
+114,Ghosts I-IV,1,3gbXOPuFdjtwclsC1dPTF2,Ghosts I,spotify:track:3gbXOPuFdjtwclsC1dPTF2,168200,5,1,3,0.927,0.305,0.0162,0.866,0.111,-27.207,0.0402,60.066,0.0771,0
+115,Ghosts I-IV,2,014WjVoV0zDuxypHNpwwsj,Ghosts I,spotify:track:014WjVoV0zDuxypHNpwwsj,196347,3,1,1,0.972,0.14,0.0195,0.975,0.104,-20.658,0.0433,140.035,0.0869,0
+116,Ghosts I-IV,3,49JHXXDMSABS5HgHCdppJc,Ghosts I,spotify:track:49JHXXDMSABS5HgHCdppJc,231120,8,1,4,0.53,0.668,0.767,0.758,0.31,-11.516,0.0267,135.006,0.967,0
+117,Ghosts I-IV,4,6Y1jlEkjlGjwXc5pHuo9t4,Ghosts I,spotify:track:6Y1jlEkjlGjwXc5pHuo9t4,132893,7,0,4,0.0028,0.611,0.639,0.739,0.255,-8.12,0.0302,144.01,0.371,0
+118,Ghosts I-IV,5,7KpDfJSXPNAwWKZHkows6M,Ghosts I,spotify:track:7KpDfJSXPNAwWKZHkows6M,171973,0,0,4,0.915,0.614,0.267,0.919,0.11,-15.572,0.0395,81.035,0.349,0
+119,Ghosts I-IV,6,3gS648tGud10DD4udklmi4,Ghosts I,spotify:track:3gS648tGud10DD4udklmi4,258693,5,1,4,0.996,0.763,0.135,0.968,0.0953,-21.035,0.241,122.007,0.701,0
+120,Ghosts I-IV,7,5gXepfMK7U55Qu6ZtZfmXK,Ghosts I,spotify:track:5gXepfMK7U55Qu6ZtZfmXK,120693,1,1,4,0.0696,0.678,0.834,0.888,0.101,-7.252,0.253,195.939,0.473,0
+121,Ghosts I-IV,8,4ZksNrtfMu7WTembVBOH4p,Ghosts I,spotify:track:4ZksNrtfMu7WTembVBOH4p,175973,5,1,4,0.148,0.466,0.97,0.966,0.562,-4.195,0.056,111.984,0.341,0
+122,Ghosts I-IV,9,4eS21mg0oabkJK2ix1uOut,Ghosts I,spotify:track:4eS21mg0oabkJK2ix1uOut,167093,5,1,4,0.934,0.637,0.532,0.942,0.111,-16.422,0.142,160.167,0.185,0
+123,Ghosts I-IV,10,3NDLoYjerCT1j0aFwjBzIQ,Ghosts Ii,spotify:track:3NDLoYjerCT1j0aFwjBzIQ,162280,7,1,4,0.133,0.735,0.632,0.899,0.0646,-6.941,0.034,102.078,0.271,0
+124,Ghosts I-IV,11,66bEx23UnPb23sW7mURgIG,Ghosts Ii,spotify:track:66bEx23UnPb23sW7mURgIG,137333,0,0,4,0.711,0.542,0.166,0.874,0.216,-18.391,0.0334,90.009,0.0377,0
+125,Ghosts I-IV,12,3TTcRuLNWWdoQc8lVdtjGe,Ghosts Ii,spotify:track:3TTcRuLNWWdoQc8lVdtjGe,137213,0,1,3,0.011,0.299,0.459,0.851,0.147,-13.063,0.0474,170.565,0.0935,0
+126,Ghosts I-IV,13,4Md41jUr3K3to9OVOadPad,Ghosts Ii,spotify:track:4Md41jUr3K3to9OVOadPad,193560,7,1,4,0.897,0.493,0.0657,0.956,0.113,-27.675,0.0384,118.02,0.0636,0
+127,Ghosts I-IV,14,1KX4DPsM2stR6RnQCK8ifs,Ghosts Ii,spotify:track:1KX4DPsM2stR6RnQCK8ifs,185627,10,0,4,0.0502,0.594,0.889,0.938,0.11,-7.341,0.0486,165.977,0.782,1
+128,Ghosts I-IV,15,4E9U1kbT5zryF31r2cdPF3,Ghosts Ii,spotify:track:4E9U1kbT5zryF31r2cdPF3,113240,4,1,4,0.907,0.721,0.364,0.285,0.127,-10.93,0.0355,101.012,0.314,0
+129,Ghosts I-IV,16,0UEU7FQWXTYUolxpKhoSbj,Ghosts Ii,spotify:track:0UEU7FQWXTYUolxpKhoSbj,149960,4,0,4,0.021,0.667,0.655,0.806,0.0848,-7.666,0.0573,101.988,0.952,0
+130,Ghosts I-IV,17,3griZen14OKA7I9pDAiczd,Ghosts Ii,spotify:track:3griZen14OKA7I9pDAiczd,133333,1,0,4,0.801,0.505,0.761,0.953,0.103,-11.794,0.0283,162.003,0.666,0
+131,Ghosts I-IV,18,3pioRFzx0isQiUqfG9kYl2,Ghosts Ii,spotify:track:3pioRFzx0isQiUqfG9kYl2,313973,5,1,4,0.788,0.592,0.23,0.897,0.112,-14.103,0.0449,171.922,0.147,0
+132,Ghosts I-IV,19,4isY3X8NcEIb757S0WDKUa,Ghosts Iii,spotify:track:4isY3X8NcEIb757S0WDKUa,131800,1,1,4,0.0492,0.484,0.954,0.791,0.344,-7.274,0.0656,160.048,0.342,0
+133,Ghosts I-IV,20,5N8sa57FBVaY9mTIPoDYVi,Ghosts Iii,spotify:track:5N8sa57FBVaY9mTIPoDYVi,219307,9,1,4,0.401,0.435,0.61,0.865,0.117,-11.059,0.0723,140.007,0.43,0
+134,Ghosts I-IV,21,2vie8dvsdJ026A1JBVeuU7,Ghosts Iii,spotify:track:2vie8dvsdJ026A1JBVeuU7,174360,2,1,4,0.959,0.67,0.743,0.863,0.448,-11.246,0.0501,142.011,0.512,0
+135,Ghosts I-IV,22,04NvEzrYgGtujPF9FtUcNu,Ghosts Iii,spotify:track:04NvEzrYgGtujPF9FtUcNu,151120,6,1,4,0.692,0.78,0.272,0.712,0.126,-15.946,0.0506,120.026,0.0558,0
+136,Ghosts I-IV,23,7xnWBQA1XkDCgS627rjQ8s,Ghosts Iii,spotify:track:7xnWBQA1XkDCgS627rjQ8s,163667,9,1,4,0.873,0.365,0.67,0.954,0.453,-10.76,0.0742,145.756,0.269,0
+137,Ghosts I-IV,24,5cplRa7wyaUquinuaw5M36,Ghosts Iii,spotify:track:5cplRa7wyaUquinuaw5M36,159253,11,0,4,0.00256,0.609,0.667,0.833,0.147,-9.146,0.0356,121.964,0.141,0
+138,Ghosts I-IV,25,5XB9GvwI4EWFWSKm28sxzm,Ghosts Iii,spotify:track:5XB9GvwI4EWFWSKm28sxzm,118947,11,0,3,0.694,0.516,0.439,0.888,0.251,-17.179,0.1,107.857,0.151,0
+139,Ghosts I-IV,26,0135S44NafBTPmmmkHVm1G,Ghosts Iii,spotify:track:0135S44NafBTPmmmkHVm1G,145920,1,1,4,0.000412,0.484,0.922,0.9,0.125,-7.646,0.0351,158.03,0.746,0
+140,Ghosts I-IV,27,2ubIgd4ePwtVuJGqL9xTxB,Ghosts Iii,spotify:track:2ubIgd4ePwtVuJGqL9xTxB,171800,9,1,4,7.59e-05,0.468,0.891,0.859,0.242,-6.812,0.0429,137.956,0.518,0
+141,Ghosts I-IV,28,0hm9JTcqJc5PVEpUGQQe6Z,Ghosts Iv,spotify:track:0hm9JTcqJc5PVEpUGQQe6Z,322067,10,1,4,0.822,0.706,0.108,0.928,0.109,-19.644,0.0407,119.997,0.0558,0
+142,Ghosts I-IV,29,3zUuTgZ3O9RHvuIpDMvDIV,Ghosts Iv,spotify:track:3zUuTgZ3O9RHvuIpDMvDIV,174600,7,1,4,0.0334,0.84,0.863,0.126,0.34,-10.486,0.0449,99.003,0.753,0
+143,Ghosts I-IV,30,06KH6Q1XoCzsGH8Thieme1,Ghosts Iv,spotify:track:06KH6Q1XoCzsGH8Thieme1,178680,11,1,1,0.876,0.798,0.321,0.824,0.113,-12.933,0.0308,94.999,0.766,0
+144,Ghosts I-IV,31,0pjHtw5bFPKLWCTQ6Mol9U,Ghosts Iv,spotify:track:0pjHtw5bFPKLWCTQ6Mol9U,145547,7,1,4,0.0016,0.613,0.851,0.909,0.364,-7.107,0.0774,122.009,0.358,0
+145,Ghosts I-IV,32,2g0vDvqdo9hofiJQX2IQ5y,Ghosts Iv,spotify:track:2g0vDvqdo9hofiJQX2IQ5y,265560,7,1,4,0.987,0.98,0.372,0.937,0.111,-18.331,0.0544,121.995,0.524,0
+146,Ghosts I-IV,33,6hbn5t8eUfh05NWKNCt09b,Ghosts Iv,spotify:track:6hbn5t8eUfh05NWKNCt09b,241693,1,1,4,0.355,0.488,0.493,0.892,0.12,-11.945,0.0265,179.062,0.115,0
+147,Ghosts I-IV,34,0hAzhwAdHlWaWxA1iVxq3y,Ghosts Iv,spotify:track:0hAzhwAdHlWaWxA1iVxq3y,352560,2,1,4,0.945,0.249,0.113,0.926,0.201,-17.954,0.0317,64.851,0.0654,0
+148,Ghosts I-IV,35,3Y97CzH4x6utQeOVQVTo8e,Ghosts Iv,spotify:track:3Y97CzH4x6utQeOVQVTo8e,209933,1,1,4,0.0587,0.816,0.778,0.805,0.0689,-7.543,0.133,147.999,0.72,0
+149,Ghosts I-IV,36,4ICmQpGTI3VjdwbGwSZ5Ha,Ghosts Iv,spotify:track:4ICmQpGTI3VjdwbGwSZ5Ha,139053,7,0,4,0.994,0.697,0.0592,0.904,0.113,-22.397,0.0938,127.9,0.506,0
+150,Ghosts I-IV,1,6Uu31yu5pnBX2fHYWmc7iL,Ghosts I,spotify:track:6Uu31yu5pnBX2fHYWmc7iL,168200,5,1,3,0.926,0.319,0.018,0.878,0.111,-27.214,0.0398,60.045,0.0679,13
+151,Ghosts I-IV,2,3MDzcm7d64VVAirtmOrppq,Ghosts I,spotify:track:3MDzcm7d64VVAirtmOrppq,196347,3,1,5,0.974,0.151,0.0163,0.989,0.104,-20.635,0.0451,106.198,0.0549,11
+152,Ghosts I-IV,3,0eKVZ9esIxvmPN6u0fZhwv,Ghosts I,spotify:track:0eKVZ9esIxvmPN6u0fZhwv,231120,8,1,4,0.552,0.67,0.761,0.804,0.312,-11.513,0.0269,134.999,0.968,11
+153,Ghosts I-IV,4,0FwDnIqZJUicWGatz7go7c,Ghosts I,spotify:track:0FwDnIqZJUicWGatz7go7c,132880,7,0,4,0.0032,0.616,0.642,0.748,0.277,-8.167,0.03,144.027,0.373,10
+154,Ghosts I-IV,5,7y9NlVm85cpTjKlz9SdtGb,Ghosts I,spotify:track:7y9NlVm85cpTjKlz9SdtGb,171987,0,0,4,0.908,0.622,0.28,0.918,0.11,-15.564,0.0406,81.018,0.337,10
+155,Ghosts I-IV,6,1D11guhsWkwfYdqV5RvDMH,Ghosts I,spotify:track:1D11guhsWkwfYdqV5RvDMH,258693,5,1,4,0.996,0.763,0.133,0.968,0.0953,-21.045,0.247,121.98,0.703,10
+156,Ghosts I-IV,7,4PBw6beB3VG5bHydOR0wfB,Ghosts I,spotify:track:4PBw6beB3VG5bHydOR0wfB,120693,1,1,4,0.0851,0.683,0.841,0.868,0.0835,-7.257,0.236,195.943,0.478,9
+157,Ghosts I-IV,8,7aTPcWn1gtng913B7na1w5,Ghosts I,spotify:track:7aTPcWn1gtng913B7na1w5,175973,5,1,4,0.14,0.467,0.97,0.973,0.635,-4.218,0.0586,111.991,0.317,9
+158,Ghosts I-IV,9,630DSuUK8gR7UXb7CodJV7,Ghosts I,spotify:track:630DSuUK8gR7UXb7CodJV7,167093,5,1,4,0.934,0.638,0.535,0.95,0.111,-16.431,0.171,160.095,0.158,9
+159,Ghosts I-IV,10,7MM3FRxA8evaobnN0NHuHl,Ghosts II,spotify:track:7MM3FRxA8evaobnN0NHuHl,162280,7,1,4,0.127,0.734,0.626,0.855,0.0648,-6.952,0.0332,102.064,0.277,9
+160,Ghosts I-IV,11,7lTMo6sjgjZflUyxSevd8G,Ghosts II,spotify:track:7lTMo6sjgjZflUyxSevd8G,137333,0,0,4,0.712,0.436,0.167,0.869,0.238,-18.421,0.0394,179.995,0.0385,9
+161,Ghosts I-IV,12,3cOukKrbhBqEgwuJypi6W2,Ghosts II,spotify:track:3cOukKrbhBqEgwuJypi6W2,137213,0,1,3,0.0105,0.299,0.472,0.85,0.147,-13.104,0.047,170.491,0.0974,9
+162,Ghosts I-IV,13,0rnANE1lUC2V9iRW62K985,Ghosts II,spotify:track:0rnANE1lUC2V9iRW62K985,193560,7,1,4,0.905,0.494,0.0641,0.942,0.113,-27.695,0.0379,118.096,0.0551,11
+163,Ghosts I-IV,14,2eA3EjAzuqfM1CvNViFjDD,Ghosts II,spotify:track:2eA3EjAzuqfM1CvNViFjDD,185627,10,0,4,0.0511,0.599,0.89,0.931,0.11,-7.341,0.0479,165.954,0.772,9
+164,Ghosts I-IV,15,6PTO3DH6gmgkz16w7nm3Mr,Ghosts II,spotify:track:6PTO3DH6gmgkz16w7nm3Mr,113213,4,1,4,0.908,0.719,0.355,0.156,0.129,-10.966,0.0343,101.016,0.281,8
+165,Ghosts I-IV,16,0JIXpVtyGbRGKhBh7Y1c4x,Ghosts II,spotify:track:0JIXpVtyGbRGKhBh7Y1c4x,149987,5,1,4,0.0211,0.666,0.65,0.88,0.082,-7.632,0.0567,102.016,0.94,8
+166,Ghosts I-IV,17,4xzc3zMgFbayEjwVYd3M06,Ghosts II,spotify:track:4xzc3zMgFbayEjwVYd3M06,133333,1,0,4,0.803,0.507,0.738,0.978,0.103,-11.831,0.028,162.005,0.649,8
+167,Ghosts I-IV,18,0l6H34RgFxl0ltIAdeeDaw,Ghosts II,spotify:track:0l6H34RgFxl0ltIAdeeDaw,313973,5,1,4,0.783,0.602,0.224,0.921,0.112,-14.108,0.0448,171.981,0.154,8
+168,Ghosts I-IV,1,640OGO8AhPjMdU7d9WhM1E,Ghosts III,spotify:track:640OGO8AhPjMdU7d9WhM1E,131800,5,0,4,0.0509,0.475,0.956,0.738,0.347,-7.261,0.0691,160.011,0.324,8
+169,Ghosts I-IV,2,3rnMt5AgImkKEd3dJDjYmL,Ghosts III,spotify:track:3rnMt5AgImkKEd3dJDjYmL,219307,2,1,4,0.408,0.242,0.612,0.873,0.119,-11.065,0.0979,140.025,0.383,8
+170,Ghosts I-IV,3,1XFRtH29WlB9rgGQlnFL8x,Ghosts III,spotify:track:1XFRtH29WlB9rgGQlnFL8x,174360,2,1,4,0.959,0.671,0.737,0.858,0.487,-11.229,0.0497,142.021,0.48,8
+171,Ghosts I-IV,4,4mOUQnpdp5JXKRIuu86Sou,Ghosts III,spotify:track:4mOUQnpdp5JXKRIuu86Sou,151120,6,1,4,0.666,0.78,0.266,0.687,0.126,-15.968,0.0506,120.054,0.0557,8
+172,Ghosts I-IV,5,7zgfVwOWxyBXP0IXU65H3h,Ghosts III,spotify:track:7zgfVwOWxyBXP0IXU65H3h,163667,9,1,4,0.866,0.453,0.666,0.964,0.429,-10.775,0.0734,145.836,0.25,7
+173,Ghosts I-IV,6,0mJWPpqJkTsjQiIAMrbmq5,Ghosts III,spotify:track:0mJWPpqJkTsjQiIAMrbmq5,159253,11,0,4,0.00263,0.611,0.657,0.837,0.195,-9.164,0.0366,122.001,0.142,8
+174,Ghosts I-IV,7,2t6eAHzq3vjY1l3JUPf1kZ,Ghosts III,spotify:track:2t6eAHzq3vjY1l3JUPf1kZ,118947,11,0,3,0.681,0.588,0.444,0.925,0.241,-17.185,0.0888,107.998,0.171,7
+175,Ghosts I-IV,8,3ROGeVZqjgEQYVkOPDToC0,Ghosts III,spotify:track:3ROGeVZqjgEQYVkOPDToC0,145893,1,1,4,0.000526,0.497,0.922,0.906,0.126,-7.631,0.0358,158.015,0.713,7
+176,Ghosts I-IV,9,2a1T13s7GaWC0rhHxk7rUP,Ghosts III,spotify:track:2a1T13s7GaWC0rhHxk7rUP,171827,6,0,4,8.23e-05,0.466,0.876,0.857,0.155,-6.793,0.0449,137.926,0.513,7
+177,Ghosts I-IV,10,60UTUu8VIjBxJhabLhdn2G,Ghosts IV,spotify:track:60UTUu8VIjBxJhabLhdn2G,322067,10,1,4,0.835,0.705,0.109,0.903,0.109,-19.63,0.0407,119.994,0.0543,9
+178,Ghosts I-IV,11,3WRgKsPHv6YkchtaRvjirU,Ghosts IV,spotify:track:3WRgKsPHv6YkchtaRvjirU,174600,7,1,4,0.0337,0.842,0.858,0.155,0.329,-10.462,0.0449,99.001,0.758,7
+179,Ghosts I-IV,12,5Gu8vZ1EXLCmMM27Mcj3xp,Ghosts IV,spotify:track:5Gu8vZ1EXLCmMM27Mcj3xp,178680,11,1,1,0.886,0.801,0.324,0.842,0.113,-12.938,0.0309,94.999,0.783,7
+180,Ghosts I-IV,13,24qpg1MkoBce0FGL2hGtae,Ghosts IV,spotify:track:24qpg1MkoBce0FGL2hGtae,145547,7,1,4,0.0011,0.609,0.847,0.924,0.426,-7.115,0.0771,121.981,0.329,7
+181,Ghosts I-IV,14,3g4dyNmE4pn6NgueKoK3NK,Ghosts IV,spotify:track:3g4dyNmE4pn6NgueKoK3NK,265560,7,1,4,0.987,0.981,0.372,0.937,0.112,-18.305,0.0546,121.995,0.505,8
+182,Ghosts I-IV,15,1fPYgXQqeq20y0Xjcz9mLC,Ghosts IV,spotify:track:1fPYgXQqeq20y0Xjcz9mLC,241693,1,1,4,0.356,0.487,0.499,0.921,0.11,-11.952,0.0267,179.055,0.109,7
+183,Ghosts I-IV,16,5eCDUMndeyB9NKrNe84eo7,Ghosts IV,spotify:track:5eCDUMndeyB9NKrNe84eo7,352560,2,1,4,0.948,0.368,0.117,0.94,0.198,-17.973,0.0303,64.009,0.0596,12
+184,Ghosts I-IV,17,0fwRXzUz6W0a2kRVr065cT,Ghosts IV,spotify:track:0fwRXzUz6W0a2kRVr065cT,209933,1,1,4,0.0594,0.813,0.788,0.801,0.0641,-7.531,0.129,148.007,0.69,7
+185,Ghosts I-IV,18,4exysmtfk9RkFeViy5LCV1,Ghosts IV,spotify:track:4exysmtfk9RkFeViy5LCV1,139053,7,0,4,0.994,0.695,0.067,0.897,0.113,-22.473,0.088,127.589,0.601,7
+186,Ghosts I-IV,1,3M17PrywlQbpMskEKvdaea,01 Ghosts I,spotify:track:3M17PrywlQbpMskEKvdaea,168835,5,1,3,0.92,0.199,0.018,0.892,0.11,-27.137,0.0428,60.758,0.0808,40
+187,Ghosts I-IV,2,0GJGscEhzNvqG5JZC8V4Gt,02 Ghosts I,spotify:track:0GJGscEhzNvqG5JZC8V4Gt,196251,3,1,5,0.977,0.16,0.0168,0.983,0.103,-20.143,0.0461,109.927,0.0731,36
+188,Ghosts I-IV,3,7w10RDgwQqx0PSuNdOcTYK,03 Ghosts I,spotify:track:7w10RDgwQqx0PSuNdOcTYK,231101,8,1,4,0.545,0.675,0.783,0.846,0.304,-11.476,0.0268,135.012,0.965,32
+189,Ghosts I-IV,4,6KvsXjXrlQp9x7Bp4gwKfz,04 Ghosts I,spotify:track:6KvsXjXrlQp9x7Bp4gwKfz,133009,7,0,4,0.00326,0.62,0.668,0.756,0.195,-8.137,0.0306,144.02,0.313,32
+190,Ghosts I-IV,5,5X0h0RyNYnNIWEHURRG1at,05 Ghosts I,spotify:track:5X0h0RyNYnNIWEHURRG1at,171848,0,0,4,0.921,0.632,0.269,0.931,0.111,-15.562,0.0403,81.017,0.332,31
+191,Ghosts I-IV,6,1pGWTKQR855fW3Yo9S6Gl8,06 Ghosts I,spotify:track:1pGWTKQR855fW3Yo9S6Gl8,258696,5,1,4,0.996,0.765,0.138,0.968,0.091,-21.061,0.255,121.983,0.713,32
+192,Ghosts I-IV,7,309lSRLLvKvzmluaq0kCNn,07 Ghosts I,spotify:track:309lSRLLvKvzmluaq0kCNn,120609,1,1,4,0.0727,0.696,0.838,0.889,0.0932,-7.233,0.247,196.017,0.486,30
+193,Ghosts I-IV,8,1WVvMxIagsMkbcA6EBFugA,08 Ghosts I,spotify:track:1WVvMxIagsMkbcA6EBFugA,176117,5,1,4,0.125,0.467,0.965,0.982,0.627,-4.233,0.0571,111.963,0.365,30
+194,Ghosts I-IV,9,2zXMdmHjBxZ5yffrIrO7dc,09 Ghosts I,spotify:track:2zXMdmHjBxZ5yffrIrO7dc,166967,5,1,4,0.94,0.636,0.541,0.947,0.114,-16.463,0.142,160.04,0.138,32
+195,Ghosts I-IV,10,2ZbeeTvPakGCdrbefijMKW,10 Ghosts II,spotify:track:2ZbeeTvPakGCdrbefijMKW,162339,5,1,4,0.138,0.733,0.65,0.864,0.0636,-6.948,0.033,102.031,0.305,30
+196,Ghosts I-IV,11,2BSVnzD8ds8v5pFnoxQS3O,11 Ghosts II,spotify:track:2BSVnzD8ds8v5pFnoxQS3O,137329,0,0,4,0.709,0.432,0.17,0.891,0.124,-18.301,0.0368,179.988,0.0388,29
+197,Ghosts I-IV,12,6deUL4pIy75bpLl6gWlr5R,12 Ghosts II,spotify:track:6deUL4pIy75bpLl6gWlr5R,137201,0,1,3,0.00701,0.296,0.466,0.825,0.165,-12.998,0.0456,171.744,0.0758,31
+198,Ghosts I-IV,13,1HwDwWdJgbI23mGJpGqBL6,13 Ghosts II,spotify:track:1HwDwWdJgbI23mGJpGqBL6,193613,7,1,4,0.9,0.496,0.0542,0.935,0.111,-27.766,0.037,118.062,0.0669,42
+199,Ghosts I-IV,14,4oUTzUMo8IBMEIbZaPC66S,14 Ghosts II,spotify:track:4oUTzUMo8IBMEIbZaPC66S,185593,10,0,4,0.0566,0.592,0.882,0.935,0.1,-7.309,0.0507,165.965,0.77,31
+200,Ghosts I-IV,15,0m3aMOn8ol1JYH88i1HD1y,15 Ghosts II,spotify:track:0m3aMOn8ol1JYH88i1HD1y,113200,4,1,4,0.888,0.725,0.355,0.142,0.126,-10.888,0.0334,100.999,0.325,29
+201,Ghosts I-IV,16,1k1vIpXSq35PZBh5fnIARS,16 Ghosts II,spotify:track:1k1vIpXSq35PZBh5fnIARS,150024,5,1,4,0.0198,0.668,0.644,0.875,0.0817,-7.623,0.0533,101.994,0.961,28
+202,Ghosts I-IV,17,0iyBr5WJQk2Dx8sVkVnBSt,17 Ghosts II,spotify:track:0iyBr5WJQk2Dx8sVkVnBSt,133330,4,1,4,0.807,0.506,0.725,0.958,0.102,-11.778,0.0321,161.999,0.559,28
+203,Ghosts I-IV,18,4GBrk2h5WstKJ1GYFDh67E,18 Ghosts II,spotify:track:4GBrk2h5WstKJ1GYFDh67E,322644,5,1,4,0.796,0.599,0.227,0.91,0.105,-14.074,0.0449,171.988,0.147,29
+204,Ghosts I-IV,19,4TgTdypQGnFivS9uXTOh0k,19 Ghosts III,spotify:track:4TgTdypQGnFivS9uXTOh0k,131763,1,1,4,0.0433,0.492,0.951,0.793,0.33,-7.271,0.0689,159.982,0.374,28
+205,Ghosts I-IV,20,6lr1ebFsMd98EUlvuj4LXf,20 Ghosts III,spotify:track:6lr1ebFsMd98EUlvuj4LXf,219402,9,1,4,0.42,0.233,0.619,0.89,0.12,-11.153,0.1,139.868,0.385,28
+206,Ghosts I-IV,21,3mrsBqN9HDl3lmtlnlC7AM,21 Ghosts III,spotify:track:3mrsBqN9HDl3lmtlnlC7AM,174391,2,1,4,0.961,0.675,0.747,0.862,0.458,-11.196,0.0458,142.016,0.502,28
+207,Ghosts I-IV,22,7dzSPp4CNbx2LzB09r1xmw,22 Ghosts III,spotify:track:7dzSPp4CNbx2LzB09r1xmw,151116,6,1,4,0.692,0.78,0.267,0.729,0.132,-15.916,0.0515,120.023,0.0441,28
+208,Ghosts I-IV,23,1KQ8WP4xNaUzXlshe1D8iY,23 Ghosts III,spotify:track:1KQ8WP4xNaUzXlshe1D8iY,163562,9,1,4,0.863,0.431,0.667,0.974,0.293,-10.71,0.0746,145.772,0.285,27
+209,Ghosts I-IV,24,0II4D0n24xS27jiFKAcvPo,24 Ghosts III,spotify:track:0II4D0n24xS27jiFKAcvPo,159343,11,0,4,0.00278,0.626,0.655,0.819,0.157,-9.201,0.0359,121.995,0.132,28
+210,Ghosts I-IV,25,2g7jFagokE4a8qieR15m7N,25 Ghosts III,spotify:track:2g7jFagokE4a8qieR15m7N,118906,11,0,3,0.702,0.38,0.459,0.912,0.232,-17.203,0.101,106.605,0.157,27
+211,Ghosts I-IV,26,3lJjmUk53f2TgjArycRQyg,26 Ghosts III,spotify:track:3lJjmUk53f2TgjArycRQyg,145862,1,1,4,0.000535,0.491,0.919,0.919,0.108,-7.603,0.0354,158.012,0.741,27
+212,Ghosts I-IV,27,46pKfzBJrKBUvXnI5QVSrX,27 Ghosts III,spotify:track:46pKfzBJrKBUvXnI5QVSrX,171901,6,0,4,6.81e-05,0.473,0.887,0.88,0.287,-6.818,0.0413,137.93,0.545,27
+213,Ghosts I-IV,28,6zIF5E9qBwrv00W0AHkA6N,28 Ghosts IV,spotify:track:6zIF5E9qBwrv00W0AHkA6N,322023,10,1,4,0.832,0.706,0.105,0.914,0.11,-19.6,0.0402,120.017,0.0555,32
+214,Ghosts I-IV,29,17XR4VNSxMEMw1CsGN1qf2,29 Ghosts IV,spotify:track:17XR4VNSxMEMw1CsGN1qf2,174551,7,1,4,0.0375,0.836,0.871,0.206,0.199,-10.49,0.0439,98.997,0.755,27
+215,Ghosts I-IV,30,5yDKPQdJA7ggdQynKjirp6,30 Ghosts IV,spotify:track:5yDKPQdJA7ggdQynKjirp6,178724,6,1,1,0.879,0.794,0.327,0.79,0.103,-12.893,0.032,95.009,0.818,27
+216,Ghosts I-IV,31,0g0K6sWj8SNrJSPIvBO1hs,31 Ghosts IV,spotify:track:0g0K6sWj8SNrJSPIvBO1hs,145556,7,1,4,0.00149,0.612,0.855,0.916,0.284,-7.022,0.0767,121.995,0.341,27
+217,Ghosts I-IV,32,3xIsOYPrxxXgSes8O2BBxX,32 Ghosts IV,spotify:track:3xIsOYPrxxXgSes8O2BBxX,265578,7,1,4,0.987,0.982,0.357,0.923,0.105,-18.335,0.0575,122.007,0.549,28
+218,Ghosts I-IV,33,3iYHR1B5BxOlEGV6CBLWXQ,33 Ghosts IV,spotify:track:3iYHR1B5BxOlEGV6CBLWXQ,241720,1,1,4,0.35,0.474,0.492,0.94,0.117,-11.967,0.0287,179.047,0.113,27
+219,Ghosts I-IV,34,2vXOjiwfjobOqrezcuSBok,34 Ghosts IV,spotify:track:2vXOjiwfjobOqrezcuSBok,352467,9,1,4,0.944,0.221,0.111,0.923,0.19,-17.945,0.0355,64.027,0.0657,41
+220,Ghosts I-IV,35,5yFQml9Zn0Pm7Cn8HktMtW,35 Ghosts IV,spotify:track:5yFQml9Zn0Pm7Cn8HktMtW,209937,1,1,4,0.0589,0.809,0.775,0.833,0.0705,-7.553,0.129,148.008,0.704,27
+221,Ghosts I-IV,36,3h0E5Hs8QkFkcAIAMYSPac,36 Ghosts IV,spotify:track:3h0E5Hs8QkFkcAIAMYSPac,139044,7,0,4,0.993,0.676,0.0788,0.905,0.112,-22.484,0.143,127.96,0.554,29
+222,Year Zero,1,2KKZGNbtCtjqDU6vgAZB8I,HYPERPOWER!,spotify:track:2KKZGNbtCtjqDU6vgAZB8I,102253,9,1,4,1.49e-05,0.45,0.934,0.948,0.121,-10.306,0.0794,172.005,0.0671,29
+223,Year Zero,2,30aRriqqaUbDN1mkTwMRhB,The Beginning Of The End,spotify:track:30aRriqqaUbDN1mkTwMRhB,167440,0,1,4,9.82e-05,0.541,0.992,0.756,0.126,-3.728,0.0511,138.015,0.333,37
+224,Year Zero,3,6iuRL2eQNTNQ2trVdbBYsE,Survivalism,spotify:track:6iuRL2eQNTNQ2trVdbBYsE,262493,9,1,4,0.000892,0.618,0.675,0.216,0.133,-5.723,0.0679,129.983,0.354,39
+225,Year Zero,4,5i6drXxQsUWeutQBq9UmnE,The Good Soldier,spotify:track:5i6drXxQsUWeutQBq9UmnE,203213,10,1,4,0.0405,0.71,0.509,0.854,0.0927,-9.396,0.039,87.411,0.63,37
+226,Year Zero,5,5cNBRAn7c2q7PoQVbKfJhr,Vessel,spotify:track:5cNBRAn7c2q7PoQVbKfJhr,291427,1,1,4,0.00809,0.644,0.857,0.0162,0.0655,-6.122,0.191,91.967,0.381,31
+227,Year Zero,6,3ph4tOOVnAnbLuqTzUyW7Q,"Me, I'm Not",spotify:track:3ph4tOOVnAnbLuqTzUyW7Q,291947,7,1,4,0.0209,0.706,0.676,0.263,0.128,-6.188,0.0847,139.981,0.884,38
+228,Year Zero,7,0TSkgwKqFVzPmTzdQ6KtV1,Capital G,spotify:track:0TSkgwKqFVzPmTzdQ6KtV1,229667,7,1,4,0.029,0.344,0.894,2.12e-06,0.094,-3.772,0.149,163.396,0.681,40
+229,Year Zero,8,60YSrrQDF4AEJUM9NRSqmK,My Violent Heart,spotify:track:60YSrrQDF4AEJUM9NRSqmK,253800,10,0,4,0.0199,0.692,0.838,0.394,0.0494,-7.744,0.188,106.011,0.448,30
+230,Year Zero,9,5hJHDY9ZHIPNKLV6VaQv1H,The Warning,spotify:track:5hJHDY9ZHIPNKLV6VaQv1H,218760,10,0,4,0.0445,0.601,0.819,0.316,0.0261,-5.655,0.119,179.975,0.837,30
+231,Year Zero,10,5BpGsAv2PU45rqVOT9nv30,God Given,spotify:track:5BpGsAv2PU45rqVOT9nv30,230253,10,0,4,0.0151,0.759,0.843,0.0624,0.119,-5.943,0.169,106.012,0.526,31
+232,Year Zero,11,2WjA9M8qjp2jgmn8kO5Tif,Meet Your Master,spotify:track:2WjA9M8qjp2jgmn8kO5Tif,248680,1,1,4,0.0014,0.586,0.837,0.358,0.0541,-4.643,0.0849,166.023,0.59,32
+233,Year Zero,12,61KLUhzwdMFyiTtaXkbEjA,The Greater Good,spotify:track:61KLUhzwdMFyiTtaXkbEjA,290920,2,1,4,0.0403,0.709,0.481,0.866,0.0811,-8.255,0.0556,83.002,0.115,28
+234,Year Zero,13,48NRmbGX31Ww3maFeiwPhF,The Great Destroyer,spotify:track:48NRmbGX31Ww3maFeiwPhF,197240,11,0,4,0.00401,0.62,0.985,0.0675,0.177,-5.171,0.21,150.001,0.387,30
+235,Year Zero,14,5BRi2TgtE4rz1YXAo2IgBV,Another Version Of The Truth,spotify:track:5BRi2TgtE4rz1YXAo2IgBV,246307,7,1,4,0.98,0.189,0.0619,0.94,0.108,-27.302,0.0382,74.311,0.0816,28
+236,Year Zero,15,6cPN40WmAutbiNFNgMYRj6,In This Twilight,spotify:track:6cPN40WmAutbiNFNgMYRj6,213813,2,1,4,0.0456,0.481,0.752,0.439,0.174,-6.152,0.0632,109.99,0.142,30
+237,Year Zero,16,2vzRDicmCblPDq3vdY8Rjg,Zero Sum,spotify:track:2vzRDicmCblPDq3vdY8Rjg,374867,5,1,4,0.147,0.77,0.605,0.199,0.104,-9.125,0.17,148.057,0.382,30
+238,Year Zero,1,5hgWOWFMO817koWUklUTnb,HYPERPOWER!,spotify:track:5hgWOWFMO817koWUklUTnb,102253,9,1,4,1.49e-05,0.45,0.934,0.948,0.121,-10.306,0.0794,172.005,0.0671,27
+239,Year Zero,2,2BQ0iumx3T29jLoCaMF49w,The Beginning Of The End,spotify:track:2BQ0iumx3T29jLoCaMF49w,167440,0,1,4,9.82e-05,0.541,0.992,0.756,0.126,-3.728,0.0511,138.015,0.333,35
+240,Year Zero,3,04k85vfh2EbwmBFG7ssCF0,Survivalism,spotify:track:04k85vfh2EbwmBFG7ssCF0,262493,9,1,4,0.000892,0.618,0.675,0.216,0.133,-5.723,0.0679,129.983,0.354,35
+241,Year Zero,4,2HetFd31uiU3pet41kUGVR,The Good Soldier,spotify:track:2HetFd31uiU3pet41kUGVR,203213,10,1,4,0.0405,0.71,0.509,0.854,0.0927,-9.396,0.039,87.411,0.63,33
+242,Year Zero,5,3bXkseontNee1UI9zohKfs,Vessel,spotify:track:3bXkseontNee1UI9zohKfs,291427,1,1,4,0.00809,0.644,0.857,0.0162,0.0655,-6.122,0.191,91.967,0.381,27
+243,Year Zero,6,4BIJ4aWcq8ZYWz126tow6S,"Me, I'm Not",spotify:track:4BIJ4aWcq8ZYWz126tow6S,291947,7,1,4,0.0209,0.706,0.676,0.263,0.128,-6.188,0.0847,139.981,0.884,34
+244,Year Zero,7,1CYhjCjo6dUCUn2zYRvGKa,Capital G,spotify:track:1CYhjCjo6dUCUn2zYRvGKa,229667,7,1,4,0.029,0.344,0.894,2.12e-06,0.094,-3.772,0.149,163.396,0.681,35
+245,Year Zero,8,6cFuZK0cOJamta5lbU1brZ,My Violent Heart,spotify:track:6cFuZK0cOJamta5lbU1brZ,253800,10,0,4,0.0199,0.692,0.838,0.394,0.0494,-7.744,0.188,106.011,0.448,27
+246,Year Zero,9,7hNk0LiJHcrk54J4yjW2Oq,The Warning,spotify:track:7hNk0LiJHcrk54J4yjW2Oq,218760,10,0,4,0.0445,0.601,0.819,0.316,0.0261,-5.655,0.119,179.975,0.837,27
+247,Year Zero,10,2iUrwhbtA1wDAKLRQlLrVA,God Given,spotify:track:2iUrwhbtA1wDAKLRQlLrVA,230253,10,0,4,0.0151,0.759,0.843,0.0624,0.119,-5.943,0.169,106.012,0.526,27
+248,Year Zero,11,3pDJBnCefNLS2oU4wpv1Rp,Meet Your Master,spotify:track:3pDJBnCefNLS2oU4wpv1Rp,248680,1,1,4,0.0014,0.586,0.837,0.358,0.0541,-4.643,0.0849,166.023,0.59,30
+249,Year Zero,12,2GKOvFUY0I6dUpaE3xqVGX,The Greater Good,spotify:track:2GKOvFUY0I6dUpaE3xqVGX,290920,2,1,4,0.0403,0.709,0.481,0.866,0.0811,-8.255,0.0557,83.002,0.115,24
+250,Year Zero,13,2xPTe1tn4BNuXtWQylAcMP,The Great Destroyer,spotify:track:2xPTe1tn4BNuXtWQylAcMP,197240,11,0,4,0.00401,0.62,0.985,0.0675,0.177,-5.171,0.21,150.001,0.387,27
+251,Year Zero,14,39O2U3UW5pHr8C68k1uhwA,Another Version Of The Truth,spotify:track:39O2U3UW5pHr8C68k1uhwA,246307,7,1,4,0.98,0.189,0.0619,0.94,0.108,-27.302,0.0382,74.314,0.0816,25
+252,Year Zero,15,2VJkxKMVQLcdf0ALc2XvSO,In This Twilight,spotify:track:2VJkxKMVQLcdf0ALc2XvSO,213813,2,1,4,0.0456,0.481,0.752,0.439,0.174,-6.152,0.0632,109.99,0.142,27
+253,Year Zero,16,6HMj8VxSur0sy23Gh1Vgxv,Zero Sum,spotify:track:6HMj8VxSur0sy23Gh1Vgxv,374867,5,1,4,0.147,0.77,0.605,0.199,0.104,-9.125,0.17,148.057,0.382,27
+254,Y34RZ3r0r3mix3d,1,4VRsk2x2xxqvQZpXjmfSL6,Gunshots by Computer - Saul Williams,spotify:track:4VRsk2x2xxqvQZpXjmfSL6,103253,11,0,4,0.0816,0.48,0.96,0.0,0.734,-5.638,0.114,171.961,0.559,24
+255,Y34RZ3r0r3mix3d,2,3oFNNOpUvRkkAD7HNsllKL,The Great Destroyer - modwheelmood,spotify:track:3oFNNOpUvRkkAD7HNsllKL,259427,4,0,4,0.000198,0.485,0.781,0.488,0.125,-5.121,0.0352,150.089,0.262,29
+256,Y34RZ3r0r3mix3d,3,3VBgXRy9CBIY5JZQ6QkkIt,My Violent Heart - pirate robot midget,spotify:track:3VBgXRy9CBIY5JZQ6QkkIt,154000,6,1,4,0.000434,0.557,0.858,0.064,0.0535,-5.312,0.171,108.128,0.624,24
+257,Y34RZ3r0r3mix3d,4,0nmsh9e5tekEtKsDOSgVpO,The Beginning of the End - ladytron,spotify:track:0nmsh9e5tekEtKsDOSgVpO,260533,0,1,4,0.156,0.578,0.78,0.113,0.429,-2.848,0.0667,138.041,0.392,25
+258,Y34RZ3r0r3mix3d,5,6tWpNTRdOeG5HC8pGQ7EBD,Survivalism - Saul Williams,spotify:track:6tWpNTRdOeG5HC8pGQ7EBD,257960,9,0,4,0.000566,0.59,0.716,0.0439,0.07,-7.134,0.0405,129.915,0.528,24
+259,Y34RZ3r0r3mix3d,6,3OXrry2jCWEf82XjvzbZXg,Capital G - Paul Epworth Phones 666 Revolutions Mix,spotify:track:3OXrry2jCWEf82XjvzbZXg,444827,11,0,4,0.00083,0.802,0.766,0.000857,0.0585,-4.527,0.2,124.952,0.589,23
+260,Y34RZ3r0r3mix3d,7,6ambR8HyBjoL0hwJ2OQVu7,Vessel - bill laswell,spotify:track:6ambR8HyBjoL0hwJ2OQVu7,370347,7,1,4,0.000692,0.666,0.92,0.348,0.412,-6.98,0.263,91.994,0.235,21
+261,Y34RZ3r0r3mix3d,8,7C28uWYnXjs2kIeVUCVTYa,The Warning - Stefan Goodchild Feat. Doudou N'Diaye Rose,spotify:track:7C28uWYnXjs2kIeVUCVTYa,223827,10,0,4,0.0352,0.707,0.695,0.767,0.18,-9.107,0.0628,103.003,0.379,26
+262,Y34RZ3r0r3mix3d,9,3PkHPwtBV0JNNEjnQJ494E,Meet Your Master - the faint,spotify:track:3PkHPwtBV0JNNEjnQJ494E,214520,1,1,4,0.0113,0.801,0.669,0.00909,0.0687,-4.915,0.0619,109.97,0.69,23
+263,Y34RZ3r0r3mix3d,10,0WhDFkJqWFKT0pRDtU0rwD,God Given - Stephen Morris And Gillian Gilbert,spotify:track:0WhDFkJqWFKT0pRDtU0rwD,267773,7,1,4,0.123,0.673,0.776,0.434,0.116,-6.254,0.0506,105.996,0.293,23
+264,Y34RZ3r0r3mix3d,11,5vupn3U3gC9qMJLXcojSwD,"Me, I'm Not - olof dreijer",spotify:track:5vupn3U3gC9qMJLXcojSwD,840787,7,1,4,0.00155,0.863,0.398,0.892,0.0728,-11.449,0.239,128.004,0.245,20
+265,Y34RZ3r0r3mix3d,12,1JOxSIJOUXNY9UVeCS24AA,Another Version of the Truth - kronos and enrique gonzalez muller,spotify:track:1JOxSIJOUXNY9UVeCS24AA,265053,0,1,4,0.677,0.443,0.712,0.856,0.373,-9.192,0.0804,88.955,0.229,20
+266,Y34RZ3r0r3mix3d,13,0LIiBBR4qfAvDAbbsXWwXn,In This Twilight - fennesz,spotify:track:0LIiBBR4qfAvDAbbsXWwXn,276093,2,1,4,0.0207,0.15,0.623,0.159,0.108,-8.986,0.0428,104.834,0.117,21
+267,Y34RZ3r0r3mix3d,14,2K74lzJvBLIEMy6qcNmtVB,Zero Sum - Stephen Morris And Gillian Gilbert,spotify:track:2K74lzJvBLIEMy6qcNmtVB,338827,2,1,4,0.0557,0.647,0.672,0.56,0.0853,-9.61,0.0382,151.957,0.663,23
+268,With Teeth (Bonus Tracks),1,25VUzj25PSw7rHidHGd12o,All The Love In The World,spotify:track:25VUzj25PSw7rHidHGd12o,315293,0,1,4,0.0688,0.728,0.637,0.314,0.106,-11.059,0.0461,119.987,0.623,36
+269,With Teeth (Bonus Tracks),2,0U6jqwQOqeUdcXJVQyDljQ,You Know What You Are?,spotify:track:0U6jqwQOqeUdcXJVQyDljQ,221933,10,1,4,0.0156,0.5,0.975,0.0277,0.299,-5.754,0.0954,160.027,0.266,36
+270,With Teeth (Bonus Tracks),3,3xra2LB64rHmLt0KuFO8X5,The Collector,spotify:track:3xra2LB64rHmLt0KuFO8X5,187493,0,1,3,0.0017,0.663,0.964,0.0637,0.137,-3.987,0.0707,138.009,0.4,33
+271,With Teeth (Bonus Tracks),4,4L5r9XNiWJ7cbqcIiNvVes,The Hand That Feeds,spotify:track:4L5r9XNiWJ7cbqcIiNvVes,211680,0,1,4,0.0172,0.587,0.99,0.000668,0.104,-4.496,0.0783,127.992,0.486,55
+272,With Teeth (Bonus Tracks),5,2g7fPyH1wsEVsoQPGy2hgK,Love Is Not Enough,spotify:track:2g7fPyH1wsEVsoQPGy2hgK,221333,7,1,4,0.015,0.672,0.674,0.465,0.0754,-6.096,0.0322,123.173,0.586,33
+273,With Teeth (Bonus Tracks),6,11sSvwrDX5BBUhbBZRKUxy,Every Day Is Exactly The Same,spotify:track:11sSvwrDX5BBUhbBZRKUxy,294893,0,1,4,0.0217,0.607,0.941,0.071,0.119,-6.163,0.0486,144.04,0.414,49
+274,With Teeth (Bonus Tracks),7,0zhPDgrdV3ye8myIztgiyJ,With Teeth,spotify:track:0zhPDgrdV3ye8myIztgiyJ,337707,0,1,4,0.192,0.602,0.66,0.391,0.203,-8.935,0.032,98.082,0.351,36
+275,With Teeth (Bonus Tracks),8,72X2RPQiMoOjQrdI2B9Olu,Only,spotify:track:72X2RPQiMoOjQrdI2B9Olu,263093,9,0,4,0.000576,0.7,0.807,0.00488,0.0996,-5.711,0.029,112.15,0.963,45
+276,With Teeth (Bonus Tracks),9,47lFMvErjaVjEfjX4lG6ea,Getting Smaller,spotify:track:47lFMvErjaVjEfjX4lG6ea,215507,8,0,4,7.85e-05,0.505,0.942,0.00284,0.126,-5.843,0.0397,168.237,0.624,33
+277,With Teeth (Bonus Tracks),10,56kUvKRD65pvGCaCZcnaBx,Sunspots,spotify:track:56kUvKRD65pvGCaCZcnaBx,243160,11,1,4,0.00204,0.736,0.444,0.923,0.113,-6.154,0.0303,103.599,0.707,38
+278,With Teeth (Bonus Tracks),11,6jUmb7A17ZGXky73XAuPe9,The Line Begins To Blur,spotify:track:6jUmb7A17ZGXky73XAuPe9,224440,7,1,4,0.0076,0.343,0.944,0.8,0.863,-5.178,0.125,174.2,0.342,32
+279,With Teeth (Bonus Tracks),12,78YbeYMR0TPhABoLj2AHo2,Beside You In Time,spotify:track:78YbeYMR0TPhABoLj2AHo2,324627,2,1,4,0.355,0.476,0.543,0.89,0.192,-9.549,0.0481,119.919,0.13,31
+280,With Teeth (Bonus Tracks),13,7MZBQeYiGTwXPkDigjFpKo,Right Where It Belongs,spotify:track:7MZBQeYiGTwXPkDigjFpKo,307560,5,1,4,0.979,0.458,0.362,0.494,0.118,-10.043,0.0305,139.879,0.223,41
+281,With Teeth (Bonus Tracks),14,2sPEnjH75yvzBMiJ1BujE2,Home - Bonus Track,spotify:track:2sPEnjH75yvzBMiJ1BujE2,194013,7,1,4,0.282,0.669,0.892,0.206,0.113,-5.966,0.0285,105.081,0.688,29
+282,With Teeth (Bonus Tracks),15,2lCNAzVSJUW3a6Xix0kLC4,Right Where It Belongs - Version 2,spotify:track:2lCNAzVSJUW3a6Xix0kLC4,303427,5,1,4,0.909,0.518,0.0683,0.000398,0.108,-19.556,0.0362,140.154,0.104,33
+283,With Teeth,1,5Wz8Fl9h3NLDzbYA6jgvx1,All The Love In The World,spotify:track:5Wz8Fl9h3NLDzbYA6jgvx1,315293,0,1,4,0.0638,0.73,0.632,0.413,0.106,-11.015,0.0462,119.99,0.63,14
+284,With Teeth,2,17KBYaBsRt9dr7GRwfQD1q,You Know What You Are?,spotify:track:17KBYaBsRt9dr7GRwfQD1q,221933,10,1,4,0.0161,0.506,0.976,0.0308,0.294,-5.664,0.108,160.035,0.272,13
+285,With Teeth,3,3igeSU2sVvoU1rIeZE6c9f,The Collector,spotify:track:3igeSU2sVvoU1rIeZE6c9f,187493,0,1,3,0.00164,0.666,0.969,0.0687,0.137,-3.881,0.0766,138.015,0.411,13
+286,With Teeth,4,6kPq6IdhMeReyfcLL5vKao,The Hand That Feeds,spotify:track:6kPq6IdhMeReyfcLL5vKao,211680,0,1,4,0.0168,0.586,0.989,0.000828,0.104,-4.407,0.0737,128.002,0.507,19
+287,With Teeth,5,2yPOcEHaLvS8uIuxwUmoSv,Love Is Not Enough,spotify:track:2yPOcEHaLvS8uIuxwUmoSv,221333,7,1,4,0.0143,0.671,0.668,0.403,0.0753,-6.0,0.0321,123.169,0.548,13
+288,With Teeth,6,2PYRNqi3Eu5XTABL4ELPfs,Every Day Is Exactly The Same,spotify:track:2PYRNqi3Eu5XTABL4ELPfs,294893,0,1,4,0.0219,0.607,0.938,0.0403,0.119,-6.038,0.0489,144.028,0.418,18
+289,With Teeth,7,6prQOwfIX3Db4wzJYJePC8,With Teeth,spotify:track:6prQOwfIX3Db4wzJYJePC8,337707,0,1,4,0.197,0.609,0.663,0.317,0.186,-8.861,0.0326,98.087,0.341,13
+290,With Teeth,8,31SkoK9hcd97ho3wB3i0aQ,Only,spotify:track:31SkoK9hcd97ho3wB3i0aQ,263093,9,0,4,0.000548,0.698,0.81,0.00434,0.0971,-5.61,0.0293,112.123,0.962,20
+291,With Teeth,9,5falhBblxA0xsUQjD0z9W5,Getting Smaller,spotify:track:5falhBblxA0xsUQjD0z9W5,215507,8,0,4,6.88e-05,0.5,0.94,0.00321,0.126,-5.754,0.0394,168.234,0.61,13
+292,With Teeth,10,06Woz269qjjUmanuzrhZFQ,Sunspots,spotify:track:06Woz269qjjUmanuzrhZFQ,243160,11,1,4,0.00184,0.736,0.444,0.907,0.113,-6.062,0.0302,103.602,0.724,14
+293,With Teeth,11,2dYRfUfy3K9teTBZKQHgEd,The Line Begins To Blur,spotify:track:2dYRfUfy3K9teTBZKQHgEd,224440,7,1,4,0.00692,0.34,0.945,0.743,0.836,-5.077,0.131,174.197,0.299,12
+294,With Teeth,12,22ed35uNTdtSMUauOV7J2h,Beside You In Time,spotify:track:22ed35uNTdtSMUauOV7J2h,324627,2,1,4,0.367,0.478,0.553,0.886,0.179,-9.457,0.0498,119.912,0.138,11
+295,With Teeth,13,5E8vtHIQ9SSNL2w3ntNrTI,Right Where It Belongs,spotify:track:5E8vtHIQ9SSNL2w3ntNrTI,307560,5,1,4,0.979,0.436,0.367,0.507,0.119,-9.951,0.0303,70.015,0.199,16
+296,With Teeth,14,7EYuORhYHSAdVQWMiijAza,Home,spotify:track:7EYuORhYHSAdVQWMiijAza,191307,7,1,4,0.29,0.669,0.892,0.25,0.116,-5.876,0.0277,105.079,0.671,11
+297,With Teeth,1,2BUb9KdCYOtPUGSz2wsKYd,All The Love In The World,spotify:track:2BUb9KdCYOtPUGSz2wsKYd,315293,0,1,4,0.0688,0.728,0.637,0.314,0.106,-11.059,0.0461,119.987,0.623,40
+298,With Teeth,2,4Hs5Fu5fHNPwHvKAiUXotu,You Know What You Are?,spotify:track:4Hs5Fu5fHNPwHvKAiUXotu,221933,10,1,4,0.0156,0.5,0.975,0.0277,0.299,-5.754,0.0954,160.027,0.266,40
+299,With Teeth,3,74a9wwkQvx2jxu8JcReK08,The Collector,spotify:track:74a9wwkQvx2jxu8JcReK08,187493,0,1,3,0.0017,0.663,0.964,0.0637,0.137,-3.987,0.0707,138.009,0.4,36
+300,With Teeth,4,5ugzDiilhy6ILKmKfhEzd7,The Hand That Feeds,spotify:track:5ugzDiilhy6ILKmKfhEzd7,211680,0,1,4,0.0172,0.587,0.99,0.000668,0.104,-4.496,0.0783,127.992,0.486,59
+301,With Teeth,5,3IiBvIuYEEHFCDRmnoSILB,Love Is Not Enough,spotify:track:3IiBvIuYEEHFCDRmnoSILB,221333,7,1,4,0.015,0.672,0.674,0.465,0.0754,-6.096,0.0322,123.173,0.586,37
+302,With Teeth,6,0ypg59NyOVCpWVzd0SUsT5,Every Day Is Exactly The Same,spotify:track:0ypg59NyOVCpWVzd0SUsT5,294893,0,1,4,0.0217,0.607,0.941,0.071,0.119,-6.163,0.0486,144.04,0.414,52
+303,With Teeth,7,1boT6T7To8iTK1RyM5xxJy,With Teeth,spotify:track:1boT6T7To8iTK1RyM5xxJy,337707,0,1,4,0.192,0.602,0.66,0.391,0.203,-8.935,0.032,98.082,0.351,40
+304,With Teeth,8,0m1DJ5Jkv3kdnGrcZsJFmC,Only,spotify:track:0m1DJ5Jkv3kdnGrcZsJFmC,263093,9,0,4,0.000576,0.7,0.807,0.00488,0.0996,-5.711,0.029,112.15,0.963,50
+305,With Teeth,9,7K4agN9Ul3LX0jbC2UxcYs,Getting Smaller,spotify:track:7K4agN9Ul3LX0jbC2UxcYs,215507,8,0,4,7.85e-05,0.505,0.942,0.00284,0.126,-5.843,0.0397,168.237,0.624,37
+306,With Teeth,10,2ObdpKGauHF4PKX6xCG1ZS,Sunspots,spotify:track:2ObdpKGauHF4PKX6xCG1ZS,243160,11,1,4,0.00204,0.736,0.444,0.923,0.113,-6.154,0.0303,103.599,0.707,41
+307,With Teeth,11,33Po4wZNmlLhd5VJTkA0RC,The Line Begins To Blur,spotify:track:33Po4wZNmlLhd5VJTkA0RC,224440,7,1,4,0.0076,0.343,0.944,0.8,0.863,-5.178,0.125,174.2,0.342,36
+308,With Teeth,12,5DAMyAeknJ3TiffLNo9fg9,Beside You In Time,spotify:track:5DAMyAeknJ3TiffLNo9fg9,324627,2,1,4,0.355,0.476,0.543,0.89,0.192,-9.549,0.0481,119.919,0.13,36
+309,With Teeth,13,586rOcAzOHkpJTA4POqO2c,Right Where It Belongs,spotify:track:586rOcAzOHkpJTA4POqO2c,304853,5,1,4,0.979,0.458,0.362,0.494,0.119,-10.043,0.0305,139.879,0.223,44
+310,The Downward Spiral (Deluxe Edition),1,6m44QcsdbzCOL1Gacaxo8N,Mr. Self Destruct,spotify:track:6m44QcsdbzCOL1Gacaxo8N,270293,2,1,4,0.00489,0.234,0.876,0.773,0.427,-8.494,0.0712,99.823,0.262,40
+311,The Downward Spiral (Deluxe Edition),2,2U6XVpYnXEIbHodzlRYweB,Piggy,spotify:track:2U6XVpYnXEIbHodzlRYweB,264400,11,0,4,0.00561,0.725,0.437,0.396,0.147,-14.015,0.0521,131.883,0.621,39
+312,The Downward Spiral (Deluxe Edition),3,6pzLYIFvcV5w3ePpGIIyqw,Heresy,spotify:track:6pzLYIFvcV5w3ePpGIIyqw,234307,5,1,4,2.44e-05,0.554,0.933,0.0231,0.107,-4.527,0.129,114.996,0.145,40
+313,The Downward Spiral (Deluxe Edition),4,4iBgmqQ0cPGyRPGMyySiaB,March Of The Pigs,spotify:track:4iBgmqQ0cPGyRPGMyySiaB,178427,2,1,1,0.033,0.509,0.875,0.134,0.0815,-6.772,0.0485,134.473,0.05,41
+314,The Downward Spiral (Deluxe Edition),5,5mc6EyF1OIEOhAkD0Gg9Lc,Closer,spotify:track:5mc6EyF1OIEOhAkD0Gg9Lc,373307,10,0,4,0.000273,0.546,0.724,0.667,0.133,-8.639,0.0427,89.991,0.586,53
+315,The Downward Spiral (Deluxe Edition),6,0KIwLmhPmSJNHWJjCRBhd9,Ruiner,spotify:track:0KIwLmhPmSJNHWJjCRBhd9,296400,7,1,4,0.000194,0.522,0.974,0.39,0.513,-6.415,0.0708,116.672,0.08,39
+316,The Downward Spiral (Deluxe Edition),7,2Ci4G7UQsI3CzhZTgF6jYF,The Becoming,spotify:track:2Ci4G7UQsI3CzhZTgF6jYF,331560,0,1,3,0.00637,0.546,0.956,0.00162,0.268,-8.299,0.0387,149.862,0.669,38
+317,The Downward Spiral (Deluxe Edition),8,7BHOCLm5ZYpbOB1nVjAj2i,I Do Not Want This,spotify:track:7BHOCLm5ZYpbOB1nVjAj2i,341200,4,1,4,0.0348,0.593,0.953,0.0336,0.148,-6.682,0.119,117.884,0.0928,35
+318,The Downward Spiral (Deluxe Edition),9,44RkSiqtWOJf16XkJbHJ39,Big Man With A Gun,spotify:track:44RkSiqtWOJf16XkJbHJ39,96200,9,1,4,0.000252,0.336,0.985,0.068,0.811,-4.023,0.11,199.865,0.38,38
+319,The Downward Spiral (Deluxe Edition),10,1HsjoAytWxKDxjAV6dLGxW,A Warm Place,spotify:track:1HsjoAytWxKDxjAV6dLGxW,202307,3,1,4,0.729,0.271,0.107,0.879,0.115,-28.318,0.0349,139.365,0.0743,37
+320,The Downward Spiral (Deluxe Edition),11,7LSZfZxfKnPaJGiCKVHiWh,Eraser,spotify:track:7LSZfZxfKnPaJGiCKVHiWh,294360,5,0,3,0.0618,0.686,0.964,0.652,0.715,-8.459,0.0333,130.024,0.478,35
+321,The Downward Spiral (Deluxe Edition),12,1Rn5TLiCpbtZLlXCUel5Ge,Reptile,spotify:track:1Rn5TLiCpbtZLlXCUel5Ge,411840,7,1,4,0.00481,0.62,0.891,0.069,0.43,-7.708,0.0642,127.91,0.0471,36
+322,The Downward Spiral (Deluxe Edition),13,3ZSLPVR3ndeJrFDsouM5e4,The Downward Spiral,spotify:track:3ZSLPVR3ndeJrFDsouM5e4,237293,2,1,4,0.977,0.313,0.352,0.936,0.0968,-16.892,0.0434,103.711,0.179,34
+323,The Downward Spiral (Deluxe Edition),14,06E2wdQZkuZCErWNK26l0U,Hurt,spotify:track:06E2wdQZkuZCErWNK26l0U,373333,11,0,4,0.784,0.534,0.102,0.0136,0.135,-17.71,0.0432,79.932,0.0741,38
+324,The Downward Spiral (Deluxe Edition),1,4SHHU5xx7ud4iUR4ebdPuD,"Burn - From ""Natural Born Killers"" Soundtrack",spotify:track:4SHHU5xx7ud4iUR4ebdPuD,300027,1,1,4,0.00116,0.588,0.923,0.368,0.0984,-6.942,0.0874,89.974,0.551,43
+325,The Downward Spiral (Deluxe Edition),2,4e9W7BLts2XZ8brfr090K9,Closer (Precursor),spotify:track:4e9W7BLts2XZ8brfr090K9,436547,10,0,4,0.0216,0.534,0.555,0.185,0.104,-13.144,0.0939,180.068,0.346,29
+326,The Downward Spiral (Deluxe Edition),3,4DO5njbgLJXXd38LliUu5C,Piggy (Nothing Can Stop Me Now),spotify:track:4DO5njbgLJXXd38LliUu5C,242587,0,1,4,0.00281,0.587,0.98,0.877,0.15,-5.528,0.0747,131.813,0.306,27
+327,The Downward Spiral (Deluxe Edition),4,5dFMvzonICipUk7m1uGlsw,A Violet Fluid,spotify:track:5dFMvzonICipUk7m1uGlsw,64000,0,0,4,0.000141,0.74,0.462,0.838,0.0947,-9.95,0.135,152.922,0.459,30
+328,The Downward Spiral (Deluxe Edition),5,4jOi4D0touCN691r2F03Tm,"Dead Souls - From ""The Crow"" Soundtrack",spotify:track:4jOi4D0touCN691r2F03Tm,293133,5,0,4,0.00143,0.528,0.877,0.714,0.0997,-7.069,0.0545,99.19,0.64,45
+329,The Downward Spiral (Deluxe Edition),6,2fXmyEIE6AtoGdo5Dm69y2,Hurt (Quiet),spotify:track:2fXmyEIE6AtoGdo5Dm69y2,308800,11,0,4,0.61,0.642,0.258,0.00178,0.128,-10.698,0.036,80.01,0.074,35
+330,The Downward Spiral (Deluxe Edition),7,5kXtr0OnI0xvaBSHRMPC1m,Closer To God,spotify:track:5kXtr0OnI0xvaBSHRMPC1m,305867,10,0,4,8.48e-06,0.601,0.814,0.644,0.0991,-8.487,0.0505,117.899,0.444,28
+331,The Downward Spiral (Deluxe Edition),8,0gQKWEOlff3XWuCCHMRKBM,"All The Pigs, All Lined Up",spotify:track:0gQKWEOlff3XWuCCHMRKBM,445787,2,1,4,3.66e-05,0.483,0.993,0.773,0.0807,-6.288,0.048,134.364,0.576,30
+332,The Downward Spiral (Deluxe Edition),9,1UUqBx8K3TlDh18iZjMxBy,Memorabilia,spotify:track:1UUqBx8K3TlDh18iZjMxBy,442000,5,1,4,0.203,0.596,0.988,0.423,0.113,-7.157,0.0774,133.868,0.321,25
+333,The Downward Spiral (Deluxe Edition),10,52HXTHuQMly4kiROcpKsBm,The Downward Spiral (The Bottom),spotify:track:52HXTHuQMly4kiROcpKsBm,448920,0,1,4,0.23,0.685,0.843,0.739,0.209,-10.27,0.121,100.416,0.332,27
+334,The Downward Spiral (Deluxe Edition),11,4W5hXb0nOme0sW6lIOjOg8,Ruiner - Demo,spotify:track:4W5hXb0nOme0sW6lIOjOg8,290027,9,1,4,8.23e-05,0.563,0.86,0.878,0.0791,-10.096,0.0498,113.129,0.129,27
+335,The Downward Spiral (Deluxe Edition),12,66l8HnKty6dYl7ikCTaRl2,Liar - Reptile Demo,spotify:track:66l8HnKty6dYl7ikCTaRl2,415853,2,1,4,0.0083,0.611,0.749,0.158,0.103,-8.499,0.0609,128.074,0.143,28
+336,The Downward Spiral (Deluxe Edition),13,60dkLE1MJXsF5LiGgr2Csd,Heresy - Demo,spotify:track:60dkLE1MJXsF5LiGgr2Csd,240173,1,0,4,0.000182,0.541,0.791,0.917,0.141,-8.589,0.0395,105.005,0.18,28
